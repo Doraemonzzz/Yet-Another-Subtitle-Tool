@@ -1,0 +1,4865 @@
+0
+00:01:09,670 --> 00:01:18,030
+all right the time still 30-some I make an attempt to to put something on
+好的，时间还是30点左右，我试图在上面放一些东西
+
+1
+00:01:18,030 --> 00:01:18,040
+the website half an hour ago so the lecture from last Tuesday and today's lecture
+好的，时间还是30点左右，我试图在上面放一些东西
+
+2
+00:01:18,040 --> 00:01:23,200
+the website half an hour ago so the lecture from last Tuesday and today's lecture
+网站半小时前，所以从上周二开始的讲座和
+
+3
+00:01:23,200 --> 00:01:26,430
+the website half an hour ago so the lecture from last Tuesday and today's lecture
+今天的演讲一定在那里，其余的都可以，我要去的入门者
+
+4
+00:01:26,430 --> 00:01:30,369
+must be there okay the rest is available starters I'm going to be collecting what
+今天的演讲一定在那里，其余的都可以，我要去的入门者
+
+5
+00:01:30,369 --> 00:01:34,219
+must be there okay the rest is available starters I'm going to be collecting what
+收集我过去的一切还好，我想可能还会再有两个
+
+6
+00:01:34,219 --> 00:01:37,509
+I had coming okay and I think probably two more on will email those register
+收集我过去的一切还好，我想可能还会再有两个
+
+7
+00:01:37,509 --> 00:01:41,370
+I had coming okay and I think probably two more on will email those register
+通过电子邮件发送给那些注册书籍中一些主题的人以供阅读
+
+8
+00:01:41,370 --> 00:01:43,440
+some topics from books to read let's see another announcement we're going to post an
+通过电子邮件发送给那些注册书籍中一些主题的人以供阅读
+
+9
+00:01:43,440 --> 00:01:49,050
+some topics from books to read let's see another announcement we're going to post an
+让我们看看另一个公告，我们将发布早期作业，但这是
+
+10
+00:01:49,050 --> 00:01:49,060
+early homework but it's nobody need you for another three weeks or so but I
+让我们看看另一个公告，我们将发布早期作业，但这是
+
+11
+00:01:49,060 --> 00:01:50,969
+early homework but it's nobody need you for another three weeks or so but I
+再过三周，没人需要你，但我想让你知道什么
+
+12
+00:01:50,969 --> 00:01:53,639
+want you to just know what
+再过三周，没人需要你，但我想让你知道什么
+
+13
+00:01:53,639 --> 00:01:53,649
+is coming and just not reading and in the process of the homework we're going
+再过三周，没人需要你，但我想让你知道什么
+
+14
+00:01:53,649 --> 00:01:57,520
+is coming and just not reading and in the process of the homework we're going
+来了，只是不读书，在做作业的过程中，我们要去
+
+15
+00:01:57,520 --> 00:01:59,910
+is coming and just not reading and in the process of the homework we're going
+明天要朗诵，所以我们可以介绍给你
+
+16
+00:01:59,910 --> 00:02:04,050
+to have recitation tomorrow so should we can introduce you to yesterday we did move
+明天要朗诵，所以我们可以介绍给你
+
+17
+00:02:04,050 --> 00:02:07,830
+to have recitation tomorrow so should we can introduce you to yesterday we did move
+昨天我们确实将您所做的介绍转移了，这使我进行了一些编程
+
+18
+00:02:07,830 --> 00:02:09,820
+what you have done introducing led me to some programming aspects cocoa from vista graphical
+昨天我们确实将您所做的介绍转移了，这使我进行了一些编程
+
+19
+00:02:09,820 --> 00:02:12,479
+what you have done introducing led me to some programming aspects cocoa from vista graphical
+从可可图形焦点的方面可可，因为我认为唤醒正在准备中
+
+20
+00:02:12,479 --> 00:02:14,590
+focus because I think the Wake is preparing the homeworks he wants you to start
+从可可图形焦点的方面可可，因为我认为唤醒正在准备中
+
+21
+00:02:14,590 --> 00:02:19,860
+focus because I think the Wake is preparing the homeworks he wants you to start
+他要你开始做的小图书馆
+
+22
+00:02:19,860 --> 00:02:19,870
+building little libraries that eventually lead to large-scale problems now if you don't want us
+他要你开始做的小图书馆
+
+23
+00:02:19,870 --> 00:02:26,400
+building little libraries that eventually lead to large-scale problems now if you don't want us
+如果您不希望我们发展这个问题，最终会导致大范围的问题
+
+24
+00:02:26,400 --> 00:02:26,410
+to develop this libraries in homework 1 we're gonna pass the solutions so you can
+如果您不希望我们发展这个问题，最终会导致大范围的问题
+
+25
+00:02:26,410 --> 00:02:31,470
+to develop this libraries in homework 1 we're gonna pass the solutions so you can
+作业1中的库，我们将通过解决方案，以便您可以从
+
+26
+00:02:31,470 --> 00:02:31,480
+use from the second part hours but lastly whatever we post does it means the
+作业1中的库，我们将通过解决方案，以便您可以从
+
+27
+00:02:31,480 --> 00:02:36,690
+use from the second part hours but lastly whatever we post does it means the
+第二部分，但最后我们发布的内容都代表我正确的事情
+
+28
+00:02:36,690 --> 00:02:36,700
+right thing I mean we are also students and we post whatever so hopefully you
+第二部分，但最后我们发布的内容都代表我正确的事情
+
+29
+00:02:36,700 --> 00:02:42,750
+right thing I mean we are also students and we post whatever so hopefully you
+意味着我们也是学生，我们发布任何内容，希望您能做得更好
+
+30
+00:02:42,750 --> 00:02:42,760
+can do better than than us and hopefully there are solutions we post are your
+意味着我们也是学生，我们发布任何内容，希望您能做得更好
+
+31
+00:02:42,760 --> 00:02:49,490
+can do better than than us and hopefully there are solutions we post are your
+比我们要多，希望我们发布的解决方案是您的解决方案
+
+32
+00:02:49,490 --> 00:02:49,500
+solutions that's why I want you to factor right up and paste okay and what
+比我们要多，希望我们发布的解决方案是您的解决方案
+
+33
+00:02:49,500 --> 00:02:56,860
+solutions that's why I want you to factor right up and paste okay and what
+这就是为什么我希望您将因子分解并粘贴好
+
+34
+00:02:56,860 --> 00:02:59,759
+solutions that's why I want you to factor right up and paste okay and what
+什么是其他公告，所以在此过程中，我们将有一个
+
+35
+00:02:59,759 --> 00:03:01,470
+was the other announcement and so in this process of we will have a recitation
+什么是其他公告，所以在此过程中，我们将有一个
+
+36
+00:03:01,470 --> 00:03:01,480
+this Friday but as I told me
+什么是其他公告，所以在此过程中，我们将有一个
+
+37
+00:03:01,480 --> 00:03:04,170
+this Friday but as I told me
+这个星期五的朗诵会，但是正如我告诉我的那样，讲台的讲课方式相同
+
+38
+00:03:04,170 --> 00:03:06,850
+very station the same ways the lectures are not thorry so if you don't like
+这个星期五的朗诵会，但是正如我告诉我的那样，讲台的讲课方式相同
+
+39
+00:03:06,850 --> 00:03:09,730
+very station the same ways the lectures are not thorry so if you don't like
+不担心，所以如果你不喜欢见我
+
+40
+00:03:09,730 --> 00:03:09,740
+to see me you don't have to come you know there are video lectures everything
+不担心，所以如果你不喜欢见我
+
+41
+00:03:09,740 --> 00:03:13,060
+to see me you don't have to come you know there are video lectures everything
+您不必来就知道有视频讲座一切都在线
+
+42
+00:03:13,060 --> 00:03:13,070
+is online you can watch me from your kitchen basically we're getting a cup of
+您不必来就知道有视频讲座一切都在线
+
+43
+00:03:13,070 --> 00:03:19,800
+is online you can watch me from your kitchen basically we're getting a cup of
+你可以从你的厨房看我，基本上我们要喝杯咖啡
+
+44
+00:03:19,800 --> 00:03:19,810
+coffee but there's gondola station at the same time of driving and again net1 Authority
+你可以从你的厨房看我，基本上我们要喝杯咖啡
+
+45
+00:03:19,810 --> 00:03:25,330
+coffee but there's gondola station at the same time of driving and again net1 Authority
+但是在开车的同时还有缆车站，再次是net1 Authority
+
+46
+00:03:25,330 --> 00:03:25,340
+because hold information will be posted
+但是在开车的同时还有缆车站，再次是net1 Authority
+
+47
+00:03:25,340 --> 00:03:27,390
+because hold information will be posted
+因为保全信息将被发布，所以雷克萨斯的功课还可以，所以
+
+48
+00:03:27,390 --> 00:03:33,370
+and so the homework the Lexus okay so you will notice when you reveal the
+因为保全信息将被发布，所以雷克萨斯的功课还可以，所以
+
+49
+00:03:33,370 --> 00:03:35,590
+and so the homework the Lexus okay so you will notice when you reveal the
+您会发现，当您从一张幻灯片中看到幻灯片时，会有一些
+
+50
+00:03:35,590 --> 00:03:37,930
+slides from let's do one there are some
+您会发现，当您从一张幻灯片中看到幻灯片时，会有一些
+
+51
+00:03:37,930 --> 00:03:37,940
+topics that are not covered okay now those topics are really some little bit more
+您会发现，当您从一张幻灯片中看到幻灯片时，会有一些
+
+52
+00:03:37,940 --> 00:03:43,570
+topics that are not covered okay now those topics are really some little bit more
+现在还没有涵盖的主题，这些主题确实有点
+
+53
+00:03:43,570 --> 00:03:43,580
+examples from the concepts that was
+现在还没有涵盖的主题，这些主题确实有点
+
+54
+00:03:43,580 --> 00:03:45,760
+examples from the concepts that was
+试图交流其中一些概念的更多例子是
+
+55
+00:03:45,760 --> 00:03:47,930
+trying to communicate some of them are going to come in this lecture so I
+试图交流其中一些概念的更多例子是
+
+56
+00:03:47,930 --> 00:03:49,480
+trying to communicate some of them are going to come in this lecture so I
+将要在本讲座中讲到，所以我不必去做，3D女士会讲到
+
+57
+00:03:49,480 --> 00:03:54,080
+don't have to do them some lady 3d will cover on Friday some we have
+将要在本讲座中讲到，所以我不必去做，3D女士会讲到
+
+58
+00:03:54,080 --> 00:03:57,400
+don't have to do them some lady 3d will cover on Friday some we have
+在星期五，我们必须自己阅读一些内容，但是如果有的话
+
+59
+00:03:57,400 --> 00:04:02,420
+to read them on your own okay and but if there is anything essential I
+在星期五，我们必须自己阅读一些内容，但是如果有的话
+
+60
+00:04:02,420 --> 00:04:04,810
+to read them on your own okay and but if there is anything essential I
+任何重要的事情，如果我不介绍，我都会回到它的意思上，这意味着我们不
+
+61
+00:04:04,810 --> 00:04:07,270
+will go back to it okay if I don't cover it means we don't really
+任何重要的事情，如果我不介绍，我都会回到它的意思上，这意味着我们不
+
+62
+00:04:07,270 --> 00:04:07,280
+need it for the shell code so for
+任何重要的事情，如果我不介绍，我都会回到它的意思上，这意味着我们不
+
+63
+00:04:07,280 --> 00:04:09,820
+need it for the shell code so for
+外壳代码确实需要它，因此例如有一个大案例研究
+
+64
+00:04:09,820 --> 00:04:13,250
+example there is a big case study of publicity graphical model related to the biology
+外壳代码确实需要它，因此例如有一个大案例研究
+
+65
+00:04:13,250 --> 00:04:17,380
+example there is a big case study of publicity graphical model related to the biology
+与生物学有关的宣传图形模型，你们知道
+
+66
+00:04:17,380 --> 00:04:20,140
+and as you guys know there is
+与生物学有关的宣传图形模型，你们知道
+
+67
+00:04:20,140 --> 00:04:20,150
+nobody from biology actually I was asked yesterday polygamy I said we have any students
+与生物学有关的宣传图形模型，你们知道
+
+68
+00:04:20,150 --> 00:04:24,700
+nobody from biology actually I was asked yesterday polygamy I said we have any students
+生物学上没有人昨天我被问及一夫多妻制，我说我们有
+
+69
+00:04:24,700 --> 00:04:24,710
+in biology doing this type of
+生物学上没有人昨天我被问及一夫多妻制，我说我们有
+
+70
+00:04:24,710 --> 00:04:26,530
+in biology doing this type of
+生物学专业的学生在做这类事情，例如，不要后悔，你知道，所以我
+
+71
+00:04:26,530 --> 00:04:32,240
+things like not sorry you know so I don't know if I stopped working for
+生物学专业的学生在做这类事情，例如，不要后悔，你知道，所以我
+
+72
+00:04:32,240 --> 00:04:35,020
+things like not sorry you know so I don't know if I stopped working for
+不知道我是否停止了20分钟的生物学工作并且我点击了
+
+73
+00:04:35,020 --> 00:04:37,700
+20 minutes in biology and I did clicker on the slide maybe a third of
+不知道我是否停止了20分钟的生物学工作并且我点击了
+
+74
+00:04:37,700 --> 00:04:41,110
+20 minutes in biology and I did clicker on the slide maybe a third of
+幻灯片可能有三分之一的人接触到了生物学，但这不会
+
+75
+00:04:41,110 --> 00:04:42,830
+humans reached biology and that is not gonna be  good right  pointing all the way around okay
+幻灯片可能有三分之一的人接触到了生物学，但这不会
+
+76
+00:04:42,830 --> 00:04:49,030
+humans reached biology and that is not gonna be  good right  pointing all the way around okay
+一路正确指向正确的好
+
+77
+00:04:49,030 --> 00:04:49,380
+humans reached biology and that is not gonna be  good right  pointing all the way around okay
+我们将开始讨论有关条件独立关系的限制
+
+78
+00:04:49,380 --> 00:04:56,600
+we're going to start discussing a limit about conditional independence relations and graphs but the
+我们将开始讨论有关条件独立关系的限制
+
+79
+00:04:56,600 --> 00:05:01,410
+we're going to start discussing a limit about conditional independence relations and graphs but the
+和图表，但该条件的理论方面的背景
+
+80
+00:05:01,410 --> 00:05:05,960
+context of theoretical aspects of this conditional independence relations not the graphs represent this is
+和图表，但该条件的理论方面的背景
+
+81
+00:05:05,960 --> 00:05:10,230
+context of theoretical aspects of this conditional independence relations not the graphs represent this is
+独立关系而不是图表所代表的这是不纯的
+
+82
+00:05:10,230 --> 00:05:10,240
+sort of an impure much so we will probably go back to it again and
+独立关系而不是图表所代表的这是不纯的
+
+83
+00:05:10,240 --> 00:05:12,809
+sort of an impure much so we will probably go back to it again and
+因此在接下来的23周内，我们可能会一遍又一遍地恢复到原来的状态，因此我们
+
+84
+00:05:12,809 --> 00:05:16,140
+again for the next 23 weeks so we
+因此在接下来的23周内，我们可能会一遍又一遍地恢复到原来的状态，因此我们
+
+85
+00:05:16,140 --> 00:05:16,150
+have a very reduced understanding so - you can take the concepts today the lecture
+因此在接下来的23周内，我们可能会一遍又一遍地恢复到原来的状态，因此我们
+
+86
+00:05:16,150 --> 00:05:22,710
+have a very reduced understanding so - you can take the concepts today the lecture
+因此了解的程度非常有限-您可以今天就采用这些概念
+
+87
+00:05:22,710 --> 00:05:22,720
+scrolling up you'd be easy but
+因此了解的程度非常有限-您可以今天就采用这些概念
+
+88
+00:05:22,720 --> 00:05:25,320
+scrolling up you'd be easy but
+讲座向上滚动，您会很轻松，但是您知道自己并没有从中受益
+
+89
+00:05:25,320 --> 00:05:27,340
+you know you don't have from the stir everything ok this is if you have
+讲座向上滚动，您会很轻松，但是您知道自己并没有从中受益
+
+90
+00:05:27,340 --> 00:05:42,290
+you know you don't have from the stir everything ok this is if you have
+一切正常，这是如果您的变量绝对显示为零
+
+91
+00:05:42,290 --> 00:05:42,300
+variables are showing absolutely zero independence relations this is an appreciation of the visionary all
+一切正常，这是如果您的变量绝对显示为零
+
+92
+00:05:42,300 --> 00:05:47,040
+variables are showing absolutely zero independence relations this is an appreciation of the visionary all
+独立关系，这是对有远见的人的赞赏
+
+93
+00:05:47,040 --> 00:05:47,050
+right so look at it carefully all right not x1 x2 given x1 x2 be
+独立关系，这是对有远见的人的赞赏
+
+94
+00:05:47,050 --> 00:05:55,170
+right so look at it carefully all right not x1 x2 given x1 x2 be
+所以仔细看吧，不是x1 x2给定x1 x2  x1像这样几个不同的位置，因为例如我可以开始
+
+95
+00:05:55,170 --> 00:06:02,430
+given x2 x1 several different positions like that because for example I can start with
+所以仔细看吧，不是x1 x2给定x1 x2  x1像这样几个不同的位置，因为例如我可以开始
+
+96
+00:06:02,430 --> 00:06:02,440
+x2 and the next one you will
+所以仔细看吧，不是x1 x2给定x1 x2  x1像这样几个不同的位置，因为例如我可以开始
+
+97
+00:06:02,440 --> 00:06:04,770
+x2 and the next one you will
+如果知道x1和x3，则使用x2和下一个将会体验x3
+
+98
+00:06:04,770 --> 00:06:10,750
+experience x3 given you know x1 and x3 etc etc so in essence you have
+如果知道x1和x3，则使用x2和下一个将会体验x3
+
+99
+00:06:10,750 --> 00:06:14,610
+experience x3 given you know x1 and x3 etc etc so in essence you have
+等等等等，所以从本质上讲，您非常推崇那些，并且在某些方面不是
+
+100
+00:06:14,610 --> 00:06:17,680
+very shove those and in some ways are not symmetric right the way that I
+等等等等，所以从本质上讲，您非常推崇那些，并且在某些方面不是
+
+101
+00:06:17,680 --> 00:06:19,620
+very shove those and in some ways are not symmetric right the way that I
+对称，就像我写它们一样，对称球形也可以
+
+102
+00:06:19,620 --> 00:06:25,919
+write them so same sort of symmetry sphere ok this expansion is very expensive to
+对称，就像我写它们一样，对称球形也可以
+
+103
+00:06:25,919 --> 00:06:29,490
+write them so same sort of symmetry sphere ok this expansion is very expensive to
+进行此扩展非常昂贵，因此，如果我们有您，请对此稍作检查
+
+104
+00:06:29,490 --> 00:06:34,060
+do so just nibble on this if we have you say K values for its
+进行此扩展非常昂贵，因此，如果我们有您，请对此稍作检查
+
+105
+00:06:34,060 --> 00:06:39,930
+do so just nibble on this if we have you say K values for its
+说出变量X的K值，而您两个都没有，所以这需要一个
+
+106
+00:06:39,930 --> 00:06:41,670
+variable X and you have both no so this will require a table of the
+说出变量X的K值，而您两个都没有，所以这需要一个
+
+107
+00:06:41,670 --> 00:06:41,680
+order of KT power V and
+说出变量X的K值，而您两个都没有，所以这需要一个
+
+108
+00:06:41,680 --> 00:06:44,719
+order of KT power V and
+KT幂V的量表，这就是我们真正开始的原因
+
+109
+00:06:44,719 --> 00:06:46,900
+this is the reason really we started probabilistic graphical models because we be asking a
+KT幂V的量表，这就是我们真正开始的原因
+
+110
+00:06:46,900 --> 00:06:52,830
+this is the reason really we started probabilistic graphical models because we be asking a
+概率图形模型，因为我们要问的问题结构可以
+
+111
+00:06:52,830 --> 00:06:52,840
+question structures can you actually simplify this conditional distributions accountable for some independence relations other
+概率图形模型，因为我们要问的问题结构可以
+
+112
+00:06:52,840 --> 00:06:57,759
+question structures can you actually simplify this conditional distributions accountable for some independence relations other
+您实际上简化了这种有条件的分配
+
+113
+00:06:57,759 --> 00:06:59,850
+question structures can you actually simplify this conditional distributions accountable for some independence relations other
+独立性关系其他了解方式，您也可以探索
+
+114
+00:06:59,850 --> 00:07:02,590
+ways you know looking at this is well explore given x1 depends on x2 and
+独立性关系其他了解方式，您也可以探索
+
+115
+00:07:02,590 --> 00:07:05,310
+ways you know looking at this is well explore given x1 depends on x2 and
+给定x1取决于x2和x3告诉x2和x3的趋势，答案是肯定的
+
+116
+00:07:05,310 --> 00:07:08,740
+x3 telling the trend of x2 and x3 the answer is yes we would factorization
+给定x1取决于x2和x3告诉x2和x3的趋势，答案是肯定的
+
+117
+00:07:08,740 --> 00:07:15,930
+x3 telling the trend of x2 and x3 the answer is yes we would factorization
+我们将分解效率很高，因此
+
+118
+00:07:15,930 --> 00:07:15,940
+that is very efficient so the discount that I did here it does not account
+我们将分解效率很高，因此
+
+119
+00:07:15,940 --> 00:07:21,790
+that is very efficient so the discount that I did here it does not account
+我在这里所做的折扣不考虑每个项目的归一化
+
+120
+00:07:21,790 --> 00:07:21,800
+for normalization of each of these probabilities which is really it doesn't remove much of
+我在这里所做的折扣不考虑每个项目的归一化
+
+121
+00:07:21,800 --> 00:07:28,980
+for normalization of each of these probabilities which is really it doesn't remove much of
+这些概率实际上并不能消除很多成本，因此
+
+122
+00:07:28,980 --> 00:07:28,990
+the cost and so when you want a perfect one you can okay numbers to
+这些概率实际上并不能消除很多成本，因此
+
+123
+00:07:28,990 --> 00:07:34,120
+the cost and so when you want a perfect one you can okay numbers to
+当你想要一个完美的人时，你可以用数字来描述它
+
+124
+00:07:34,120 --> 00:07:34,130
+describe it k square to describe excellent even x1 take you to describe this and
+当你想要一个完美的人时，你可以用数字来描述它
+
+125
+00:07:34,130 --> 00:07:40,930
+describe it k square to describe excellent even x1 take you to describe this and
+平方来描述甚至x1都可以带您描述这个并采取
+
+126
+00:07:40,930 --> 00:07:40,940
+take the power bill escape to describe now we'll study machine learning right if you
+平方来描述甚至x1都可以带您描述这个并采取
+
+127
+00:07:40,940 --> 00:07:49,980
+take the power bill escape to describe now we'll study machine learning right if you
+电力账单逃逸描述一下，现在我们将学习机器学习，如果您有
+
+128
+00:07:49,980 --> 00:07:49,990
+have missed admission like that and if you want to visit in the context in
+电力账单逃逸描述一下，现在我们将学习机器学习，如果您有
+
+129
+00:07:49,990 --> 00:07:55,090
+have missed admission like that and if you want to visit in the context in
+那样的错过入场，如果你想在自我的背景下参观
+
+130
+00:07:55,090 --> 00:07:55,100
+the self classification problems there's a lot of text you can do but you don't
+那样的错过入场，如果你想在自我的背景下参观
+
+131
+00:07:55,100 --> 00:08:00,070
+the self classification problems there's a lot of text you can do but you don't
+分类问题您可以执行很多文本操作，但不必
+
+132
+00:08:00,070 --> 00:08:00,080
+have to deal with complexity of K to the me and so here's one example
+分类问题您可以执行很多文本操作，但不必
+
+133
+00:08:00,080 --> 00:08:07,300
+have to deal with complexity of K to the me and so here's one example
+处理我的K的复杂性，所以这是我要说明的一个例子
+
+134
+00:08:07,300 --> 00:08:07,310
+I'm going to making tables for each of this conditional probability distributions but inverse you
+处理我的K的复杂性，所以这是我要说明的一个例子
+
+135
+00:08:07,310 --> 00:08:10,940
+I'm going to making tables for each of this conditional probability distributions but inverse you
+为每个这种条件概率分布制作表格
+
+136
+00:08:10,940 --> 00:08:15,420
+I'm going to making tables for each of this conditional probability distributions but inverse you
+但是相反，您可以将它们替换为逻辑回归纵坐标，如下所示：
+
+137
+00:08:15,420 --> 00:08:18,020
+replace them with logistic regression ordinates looks like  that
+但是相反，您可以将它们替换为逻辑回归纵坐标，如下所示：
+
+138
+00:08:18,020 --> 00:08:19,170
+replace them with logistic regression ordinates looks like  that
+好好吃，你在这里看到
+
+139
+00:08:19,170 --> 00:08:23,270
+alright so delicious that you see here it's so tight and we're from the field
+好好吃，你在这里看到
+
+140
+00:08:23,270 --> 00:08:26,050
+alright so delicious that you see here it's so tight and we're from the field
+太紧了，我们来自领域本身，这取决于所有
+
+141
+00:08:26,050 --> 00:08:28,330
+itself in here it depends on all the
+太紧了，我们来自领域本身，这取决于所有
+
+142
+00:08:28,330 --> 00:08:28,340
+previous axis so I try to fit this distribution of science enjoyed a function with
+太紧了，我们来自领域本身，这取决于所有
+
+143
+00:08:28,340 --> 00:08:33,229
+previous axis so I try to fit this distribution of science enjoyed a function with
+前一个轴，所以我尝试适应这种科学分布，
+
+144
+00:08:33,229 --> 00:08:36,310
+previous axis so I try to fit this distribution of science enjoyed a function with
+与某对手的函数在某种程度上是向量X的两倍
+
+145
+00:08:36,310 --> 00:08:40,150
+a rival of somewhat it's doubly times the vector X for a for the previous
+与某对手的函数在某种程度上是向量X的两倍
+
+146
+00:08:40,150 --> 00:08:40,160
+ones and then we may have not
+与某对手的函数在某种程度上是向量X的两倍
+
+147
+00:08:40,160 --> 00:08:43,450
+ones and then we may have not
+以前的那些，然后我们可能没有看到过，但是是的与众不同
+
+148
+00:08:43,450 --> 00:08:47,000
+seen this but yeah vs. are different there's no no services sigmoid function and the
+以前的那些，然后我们可能没有看到过，但是是的与众不同
+
+149
+00:08:47,000 --> 00:08:49,540
+seen this but yeah vs. are different there's no no services sigmoid function and the
+没有服务的S形函数，标签的焦点取为K
+
+150
+00:08:49,540 --> 00:08:52,210
+focus of a label to take the K
+没有服务的S形函数，标签的焦点取为K
+
+151
+00:08:52,210 --> 00:08:52,220
+component of the argument and there is a nice model for this provision from a
+没有服务的S形函数，标签的焦点取为K
+
+152
+00:08:52,220 --> 00:09:00,590
+component of the argument and there is a nice model for this provision from a
+参数的组成部分，并且从
+
+153
+00:09:00,590 --> 00:09:02,420
+component of the argument and there is a nice model for this provision from a
+他们的电影，你将不必修复
+
+154
+00:09:02,420 --> 00:09:04,140
+movie of them and you won't have to fix a thing with to describe them
+他们的电影，你将不必修复
+
+155
+00:09:04,140 --> 00:09:06,890
+movie of them and you won't have to fix a thing with to describe them
+用它们来描述它们的事情现在还可以，但是问题通常是
+
+156
+00:09:06,890 --> 00:09:10,200
+okay now it's not but the question is normally and I have the calculation here
+用它们来描述它们的事情现在还可以，但是问题通常是
+
+157
+00:09:10,200 --> 00:09:12,320
+okay now it's not but the question is normally and I have the calculation here
+我在这里进行计算，因此，如果有人有能力利用我的力量
+
+158
+00:09:12,320 --> 00:09:15,810
+so if anybody has any places from the power I get it it's actually still
+我在这里进行计算，因此，如果有人有能力利用我的力量
+
+159
+00:09:15,810 --> 00:09:18,350
+so if anybody has any places from the power I get it it's actually still
+得到它实际上仍然比他们想要你做那些事情的几率高
+
+160
+00:09:18,350 --> 00:09:20,340
+taller than they want you to do the odds of those different against yourself so
+得到它实际上仍然比他们想要你做那些事情的几率高
+
+161
+00:09:20,340 --> 00:09:22,280
+taller than they want you to do the odds of those different against yourself so
+与您自己不同，所以它出自此职位，是K
+
+162
+00:09:22,280 --> 00:09:26,850
+it comes out of the the the post of this is K times miss Claire
+与您自己不同，所以它出自此职位，是K
+
+163
+00:09:26,850 --> 00:09:30,770
+it comes out of the the the post of this is K times miss Claire
+几次想念克莱尔，然后才可能知道我的力量
+
+164
+00:09:30,770 --> 00:09:31,860
+before the possible straight to the power of me you know it's okay to whisper
+几次想念克莱尔，然后才可能知道我的力量
+
+165
+00:09:31,860 --> 00:09:34,820
+before the possible straight to the power of me you know it's okay to whisper
+可以窃窃私语，所以这真的是我的意思，进攻取决于
+
+166
+00:09:34,820 --> 00:09:37,470
+so it's really I mean depends offensively is but they they significantly reduce from above
+可以窃窃私语，所以这真的是我的意思，进攻取决于
+
+167
+00:09:37,470 --> 00:09:39,620
+so it's really I mean depends offensively is but they they significantly reduce from above
+他们从上述过程中明显减少了，但是这种方法不是
+
+168
+00:09:39,620 --> 00:09:44,150
+course okay however this method is not
+他们从上述过程中明显减少了，但是这种方法不是
+
+169
+00:09:44,150 --> 00:09:44,160
+very useful because each of this conditional distributions depends on the values of all the
+他们从上述过程中明显减少了，但是这种方法不是
+
+170
+00:09:44,160 --> 00:09:48,030
+very useful because each of this conditional distributions depends on the values of all the
+非常有用，因为每种条件分布都取决于
+
+171
+00:09:48,030 --> 00:09:49,100
+very useful because each of this conditional distributions depends on the values of all the
+所有其他先前变量的值，因此您希望能够
+
+172
+00:09:49,100 --> 00:09:52,110
+other previous variables so you want to be able to do maths very sort of
+所有其他先前变量的值，因此您希望能够
+
+173
+00:09:52,110 --> 00:09:54,530
+other previous variables so you want to be able to do maths very sort of
+数学软件在大学软件中是非常重要的事情，所以如果您
+
+174
+00:09:54,530 --> 00:09:58,140
+business in the college software plus fire so if you want people mixtures and you
+数学软件在大学软件中是非常重要的事情，所以如果您
+
+175
+00:09:58,140 --> 00:10:00,530
+business in the college software plus fire so if you want people mixtures and you
+想要人与人之间的混合，并且想要五个模块，这些都可以作为证据
+
+176
+00:10:00,530 --> 00:10:03,930
+want five modules you know account for evidence and things like that you won't be
+想要人与人之间的混合，并且想要五个模块，这些都可以作为证据
+
+177
+00:10:03,930 --> 00:10:05,690
+want five modules you know account for evidence and things like that you won't be
+而且类似的事情您将无法使用该模块进行代数
+
+178
+00:10:05,690 --> 00:10:08,970
+able to do the algebra using this module okay but again there is more than
+而且类似的事情您将无法使用该模块进行代数
+
+179
+00:10:08,970 --> 00:10:13,070
+able to do the algebra using this module okay but again there is more than
+但是，除了这个以外，我们还有其他的桌子，炸得不错，还有一些
+
+180
+00:10:13,070 --> 00:10:15,660
+this one we have the tables nice fried this had some function alright and in
+但是，除了这个以外，我们还有其他的桌子，炸得不错，还有一些
+
+181
+00:10:15,660 --> 00:10:21,680
+this one we have the tables nice fried this had some function alright and in
+函数正常，在这种情况下，一旦有了它，这个矩阵就很少了
+
+182
+00:10:21,680 --> 00:10:23,880
+this case a few this matrix not many once you have it then this could
+函数正常，在这种情况下，一旦有了它，这个矩阵就很少了
+
+183
+00:10:23,880 --> 00:10:25,850
+this case a few this matrix not many once you have it then this could
+那么在分类的背景下这可能是一个容易出现的问题
+
+184
+00:10:25,850 --> 00:10:28,350
+be an easy problem figure in the context of classification so what I want to
+那么在分类的背景下这可能是一个容易出现的问题
+
+185
+00:10:28,350 --> 00:10:31,070
+be an easy problem figure in the context of classification so what I want to
+所以我想在本课程中做到这一点，我们将不会做一些更好的基本操作
+
+186
+00:10:31,070 --> 00:10:38,370
+do this in this course we won't do something better some basic  things probability integral syndrome
+所以我想在本课程中做到这一点，我们将不会做一些更好的基本操作
+
+187
+00:10:38,370 --> 00:10:42,590
+do this in this course we won't do something better some basic  things probability integral syndrome
+事物概率积分综合症
+
+188
+00:10:42,590 --> 00:10:43,150
+do this in this course we won't do something better some basic  things probability integral syndrome
+有条件独立，所以我有1除以XY和Z可以是标量K
+
+189
+00:10:43,150 --> 00:10:50,690
+conditional independence so I have 1 divided by XY and Z can be scalar K
+有条件独立，所以我有1除以XY和Z可以是标量K
+
+190
+00:10:50,690 --> 00:10:50,700
+vector so I say that x and y are
+有条件独立，所以我有1除以XY和Z可以是标量K
+
+191
+00:10:50,700 --> 00:10:54,590
+vector so I say that x and y are
+向量，所以我说x和y在给定Z 1 FX 2的条件下是独立的
+
+192
+00:10:54,590 --> 00:10:57,600
+conditionally independent given Z 1 FX 2 the y and z is equal to B
+向量，所以我说x和y在给定Z 1 FX 2的条件下是独立的
+
+193
+00:10:57,600 --> 00:11:01,220
+conditionally independent given Z 1 FX 2 the y and z is equal to B
+给定C ok，y和z等于B FX，因此tom是Drive的正常现象
+
+194
+00:11:01,220 --> 00:11:05,030
+FX given C ok so tom is a normal something of Drive make a difference
+给定C ok，y和z等于B FX，因此tom是Drive的正常现象
+
+195
+00:11:05,030 --> 00:11:07,390
+FX given C ok so tom is a normal something of Drive make a difference
+在x的值上有所不同okay，所以这是一种方法
+
+196
+00:11:07,390 --> 00:11:11,170
+when it comes to the value of x okay so this is one way to
+在x的值上有所不同okay，所以这是一种方法
+
+197
+00:11:11,170 --> 00:11:11,180
+I'd the traditional dependent of X for y
+在x的值上有所不同okay，所以这是一种方法
+
+198
+00:11:11,180 --> 00:11:15,100
+I'd the traditional dependent of X for y
+我将X的传统依存关系y y乘以Z，这很重要，这就是为什么
+
+199
+00:11:15,100 --> 00:11:17,690
+double Z this important that's why you say conditional because there is an argument either
+我将X的传统依存关系y y乘以Z，这很重要，这就是为什么
+
+200
+00:11:17,690 --> 00:11:25,120
+double Z this important that's why you say conditional because there is an argument either
+说有条件的，因为如果您认为现在有一个论点，或者是宇宙论
+
+201
+00:11:25,120 --> 00:11:25,130
+now cosmas if you think this is a definition let me say the simple algebra
+说有条件的，因为如果您认为现在有一个论点，或者是宇宙论
+
+202
+00:11:25,130 --> 00:11:29,430
+now cosmas if you think this is a definition let me say the simple algebra
+这是一个定义让我说一个简单的代数对，我可以写这个
+
+203
+00:11:29,430 --> 00:11:29,440
+right I can write this more effectively y and z and then P of Y
+这是一个定义让我说一个简单的代数对，我可以写这个
+
+204
+00:11:29,440 --> 00:11:32,710
+right I can write this more effectively y and z and then P of Y
+y和z更有效，然后Y的P给定Z，所以这些是我可以写的
+
+205
+00:11:32,710 --> 00:11:35,800
+given Z so those are this I can write
+y和z更有效，然后Y的P给定Z，所以这些是我可以写的
+
+206
+00:11:35,800 --> 00:11:35,810
+this as P of X given Z P of Y given C so we can
+y和z更有效，然后Y的P给定Z，所以这些是我可以写的
+
+207
+00:11:35,810 --> 00:11:42,370
+this as P of X given Z P of Y given C so we can
+这是X的P给定的Y的ZP给定的C，所以我们可以在委员会中推进
+
+208
+00:11:42,370 --> 00:11:42,380
+advances in the Commission to life as an alternative way that when this conditional distribution
+这是X的P给定的Y的ZP给定的C，所以我们可以在委员会中推进
+
+209
+00:11:42,380 --> 00:11:48,430
+advances in the Commission to life as an alternative way that when this conditional distribution
+生命作为一种替代方式，当这种有条件的价格分配时
+
+210
+00:11:48,430 --> 00:11:48,440
+for price is like knob Direction Y an independent commission along Z okay so sometimes
+生命作为一种替代方式，当这种有条件的价格分配时
+
+211
+00:11:48,440 --> 00:11:55,630
+for price is like knob Direction Y an independent commission along Z okay so sometimes
+就像旋钮方向Y沿着Z方向独立执行一样，所以有时 候这很方便，因为它们是完全一样的
+
+212
+00:11:55,630 --> 00:11:57,910
+this will be convenient sometimes this
+就像旋钮方向Y沿着Z方向独立执行一样，所以有时 候这很方便，因为它们是完全一样的
+
+213
+00:11:57,910 --> 00:11:59,570
+ they are exactly the same thing that's  good
+就像旋钮方向Y沿着Z方向独立执行一样，所以有时 候这很方便，因为它们是完全一样的
+
+214
+00:11:59,570 --> 00:12:02,610
+ they are exactly the same thing that's  good
+好的依赖关系也可以用随机变量集来表示，所以我们
+
+215
+00:12:02,610 --> 00:12:20,840
+okay dependence relationship also in terms of sets of random variables so we can either
+好的依赖关系也可以用随机变量集来表示，所以我们
+
+216
+00:12:20,840 --> 00:12:22,750
+okay dependence relationship also in terms of sets of random variables so we can either
+可以同意对环境的情感正在发展
+
+217
+00:12:22,750 --> 00:12:25,010
+assent affection for environments is developing once that wagon easy when texas independent of Y
+可以同意对环境的情感正在发展
+
+218
+00:12:25,010 --> 00:12:29,530
+assent affection for environments is developing once that wagon easy when texas independent of Y
+当得克萨斯州独立于Y时，对集合X中的每个X给出Z时，旅行车很容易
+
+219
+00:12:29,530 --> 00:12:33,580
+given Z for every X in the set X and
+当得克萨斯州独立于Y时，对集合X中的每个X给出Z时，旅行车很容易
+
+220
+00:12:33,580 --> 00:12:33,590
+everyone in the sidewalk okay and actually this Zia can make it also set so
+当得克萨斯州独立于Y时，对集合X中的每个X给出Z时，旅行车很容易
+
+221
+00:12:33,590 --> 00:12:39,970
+everyone in the sidewalk okay and actually this Zia can make it also set so
+人行道上的每个人都可以，实际上Zia可以做到
+
+222
+00:12:39,970 --> 00:12:39,980
+I maybe that we have been even
+人行道上的每个人都可以，实际上Zia可以做到
+
+223
+00:12:39,980 --> 00:12:43,360
+I maybe that we have been even
+设置好，所以也许现在我们已经在其中进行了更广泛的逆转
+
+224
+00:12:43,360 --> 00:12:47,060
+more generalized reversals in there now for example we say this set of the very
+设置好，所以也许现在我们已经在其中进行了更广泛的逆转
+
+225
+00:12:47,060 --> 00:12:48,910
+more generalized reversals in there now for example we say this set of the very
+例如，我们说这个给定的那个集是非常独立的
+
+226
+00:12:48,910 --> 00:12:51,160
+most is independent that given that set
+例如，我们说这个给定的那个集是非常独立的
+
+227
+00:12:51,160 --> 00:12:51,170
+ variable so this basically will follow  this definition here
+例如，我们说这个给定的那个集是非常独立的
+
+228
+00:12:51,170 --> 00:12:57,610
+ variable so this basically will follow  this definition here
+变量，因此这基本上将遵循此定义
+
+229
+00:12:57,610 --> 00:12:58,770
+ variable so this basically will follow  this definition here
+驱蚊剂我们听这种正交性条件，但是在某些情况下
+
+230
+00:12:58,770 --> 00:13:03,700
+the repellents we listen to this sort of orthogonality condition but in some probability looks
+驱蚊剂我们听这种正交性条件，但是在某些情况下
+
+231
+00:13:03,700 --> 00:13:06,090
+the repellents we listen to this sort of orthogonality condition but in some probability looks
+概率先生。人格状况可能暗示其他事情
+
+232
+00:13:06,090 --> 00:13:07,900
+mr. personality condition may imply something else usually defined in terms of expectations okay but
+概率先生。人格状况可能暗示其他事情
+
+233
+00:13:07,900 --> 00:13:11,190
+mr. personality condition may imply something else usually defined in terms of expectations okay but
+通常根据期望定义
+
+234
+00:13:11,190 --> 00:13:11,200
+for us this is the notation we're
+通常根据期望定义
+
+235
+00:13:11,200 --> 00:13:13,260
+for us this is the notation we're
+但是对于我们来说，这就是我们将要使用的肌肉独立性的概念
+
+236
+00:13:13,260 --> 00:13:21,970
+going to use muscle independence basically you know we take this definition for example means
+但是对于我们来说，这就是我们将要使用的肌肉独立性的概念
+
+237
+00:13:21,970 --> 00:13:25,770
+going to use muscle independence basically you know we take this definition for example means
+基本上你知道我们以这个定义为例
+
+238
+00:13:25,770 --> 00:13:25,780
+of perfection y is given p FX he apply okay I was just looking at
+基本上你知道我们以这个定义为例
+
+239
+00:13:25,780 --> 00:13:34,320
+of perfection y is given p FX he apply okay I was just looking at
+完美y赋予p FX他应用了，好吧，我只是在看这张幻灯片
+
+240
+00:13:34,320 --> 00:13:34,330
+this slide right you can stab it sometimes because you see for example have I'm
+完美y赋予p FX他应用了，好吧，我只是在看这张幻灯片
+
+241
+00:13:34,330 --> 00:13:39,690
+this slide right you can stab it sometimes because you see for example have I'm
+您有时可能会刺穿它，因为您看到例如我正在使用
+
+242
+00:13:39,690 --> 00:13:39,700
+using the notation carrying them in a violent way but hopefully we can still get
+您有时可能会刺穿它，因为您看到例如我正在使用
+
+243
+00:13:39,700 --> 00:13:44,400
+using the notation carrying them in a violent way but hopefully we can still get
+符号以暴力的方式携带它们，但希望我们仍然可以
+
+244
+00:13:44,400 --> 00:13:44,410
+the message for example you know here I lose capital X and wife on the
+符号以暴力的方式携带它们，但希望我们仍然可以
+
+245
+00:13:44,410 --> 00:13:49,500
+the message for example you know here I lose capital X and wife on the
+消息，例如，您知道在这里我损失了资金X，而底部的妻子是
+
+246
+00:13:49,500 --> 00:13:49,510
+bottom was here in little x and y then effectively the same force but you
+消息，例如，您知道在这里我损失了资金X，而底部的妻子是
+
+247
+00:13:49,510 --> 00:13:54,660
+bottom was here in little x and y then effectively the same force but you
+在这里x和y很小，那么实际上是相同的力，但是你知道
+
+248
+00:13:54,660 --> 00:13:54,670
+know traditionally this would be the lot of the volume or this will be the
+在这里x和y很小，那么实际上是相同的力，但是你知道
+
+249
+00:13:54,670 --> 00:13:58,470
+know traditionally this would be the lot of the volume or this will be the
+传统上，这将是大量的交易或这将是价值
+
+250
+00:13:58,470 --> 00:13:58,480
+values that are the vitamin can take but you know we're okay right we're not
+传统上，这将是大量的交易或这将是价值
+
+251
+00:13:58,480 --> 00:14:03,810
+values that are the vitamin can take but you know we're okay right we're not
+那是维生素可以服用的，但你知道我们没事吧，我们不会
+
+252
+00:14:03,810 --> 00:14:03,820
+gonna see you know sorry you with a little X you know it's gonna tell
+那是维生素可以服用的，但你知道我们没事吧，我们不会
+
+253
+00:14:03,820 --> 00:14:07,980
+gonna see you know sorry you with a little X you know it's gonna tell
+看到你知道，用X表示抱歉，你知道这会告诉你我输入这个
+
+254
+00:14:07,980 --> 00:14:07,990
+you I type this slide at least we have some slides to talk about the
+看到你知道，用X表示抱歉，你知道这会告诉你我输入这个
+
+255
+00:14:07,990 --> 00:14:13,470
+you I type this slide at least we have some slides to talk about the
+至少我们有一些幻灯片来谈论您所知道的错误论文
+
+256
+00:14:13,470 --> 00:14:13,480
+wrong papers you know it's good idea to sort of be careful and consistent because
+至少我们有一些幻灯片来谈论您所知道的错误论文
+
+257
+00:14:13,480 --> 00:14:19,770
+wrong papers you know it's good idea to sort of be careful and consistent because
+保持谨慎和一致是个好主意，因为远比您
+
+258
+00:14:19,770 --> 00:14:19,780
+much than you're consistent okay so this mess intent of this conditional and marginal independence
+保持谨慎和一致是个好主意，因为远比您
+
+259
+00:14:19,780 --> 00:14:29,370
+much than you're consistent okay so this mess intent of this conditional and marginal independence
+一贯的好吧，所以这个有条件的和边缘的混乱意图
+
+260
+00:14:29,370 --> 00:14:29,380
+okay so I am saying here
+一贯的好吧，所以这个有条件的和边缘的混乱意图
+
+261
+00:14:29,380 --> 00:14:37,200
+okay so I am saying here
+独立性好，所以我在这里说，这整个时间都独立于
+
+262
+00:14:37,200 --> 00:14:39,940
+ that this whole time is independent of  the type of the car okay
+独立性好，所以我在这里说，这整个时间都独立于
+
+263
+00:14:39,940 --> 00:14:43,080
+ that this whole time is independent of  the type of the car okay
+汽车的类型还可以
+
+264
+00:14:43,080 --> 00:14:46,230
+ that this whole time is independent of  the type of the car okay
+[音乐]
+
+265
+00:14:46,230 --> 00:14:49,289
+[Music]
+[音乐]
+
+266
+00:14:49,289 --> 00:15:04,249
+[Music]
+我的意思是，您知道他们说a的可能性更高，您知道我
+
+267
+00:15:04,249 --> 00:16:08,249
+I mean the you know they say the probability of a is higher is you
+我的意思是，您知道他们说a的可能性更高，您知道我
+
+268
+00:16:08,249 --> 00:16:08,259
+know I mean they you know would be exactly the opposite effect from the first
+我的意思是，您知道他们说a的可能性更高，您知道我
+
+269
+00:16:08,259 --> 00:16:14,150
+know I mean they you know would be exactly the opposite effect from the first
+意味着您知道他们将与第一个示例完全相反
+
+270
+00:16:14,150 --> 00:16:14,160
+example okay so so this is the motion again so we're gonna verse here you
+意味着您知道他们将与第一个示例完全相反
+
+271
+00:16:14,160 --> 00:16:22,139
+example okay so so this is the motion again so we're gonna verse here you
+好吧，所以这又是议案，所以我们要在这里经文，你知道我在
+
+272
+00:16:22,139 --> 00:16:22,149
+know I'm writing this is a standard are gonna spend actually two or three lectures
+好吧，所以这又是议案，所以我们要在这里经文，你知道我在
+
+273
+00:16:22,149 --> 00:16:28,229
+know I'm writing this is a standard are gonna spend actually two or three lectures
+写这是一个标准，实际上要花两三堂课
+
+274
+00:16:28,229 --> 00:16:28,239
+discussing about this kindle market or
+写这是一个标准，实际上要花两三堂课
+
+275
+00:16:28,239 --> 00:16:32,970
+discussing about this kindle market or
+讨论这种点燃市场或州立公园庄园州立空间
+
+276
+00:16:32,970 --> 00:16:35,049
+in the State Park Estate state-space models but this is a Markov chain so we
+讨论这种点燃市场或州立公园庄园州立空间
+
+277
+00:16:35,049 --> 00:16:39,569
+in the State Park Estate state-space models but this is a Markov chain so we
+模型，但这是一个马尔可夫链，所以我们可以想像您知道您有某种状态
+
+278
+00:16:39,569 --> 00:16:43,439
+can imagine you know you have some state
+模型，但这是一个马尔可夫链，所以我们可以想像您知道您有某种状态
+
+279
+00:16:43,439 --> 00:16:43,449
+body moves but and you know the values of it Connie so x1 is the
+模型，但这是一个马尔可夫链，所以我们可以想像您知道您有某种状态
+
+280
+00:16:43,449 --> 00:16:48,250
+body moves but and you know the values of it Connie so x1 is the
+身体移动，但是你知道它的价值
+
+281
+00:16:48,250 --> 00:16:52,650
+body moves but and you know the values of it Connie so x1 is the
+康妮，所以x1是重音的音量-谢谢，等等，所以异常
+
+282
+00:16:52,650 --> 00:16:57,580
+volume of dynomonics - thank you it cetera so the unusually a monomial assumption here
+康妮，所以x1是重音的音量-谢谢，等等，所以异常
+
+283
+00:16:57,580 --> 00:17:01,050
+volume of dynomonics - thank you it cetera so the unusually a monomial assumption here
+这里的单项式假设中，高BP的模型效应仅取决于
+
+284
+00:17:01,050 --> 00:17:02,770
+where the model effects of high BP depends only on the value of I'm XT
+这里的单项式假设中，高BP的模型效应仅取决于
+
+285
+00:17:02,770 --> 00:17:06,030
+where the model effects of high BP depends only on the value of I'm XT
+我的值是XT减去1，所以准备这个表达式可以特别显示出
+
+286
+00:17:06,030 --> 00:17:09,130
+minus 1 so prepared this expression show expecially we can remember this pretty does this
+我的值是XT减去1，所以准备这个表达式可以特别显示出
+
+287
+00:17:09,130 --> 00:17:10,800
+minus 1 so prepared this expression show expecially we can remember this pretty does this
+还记得这个漂亮的长表达式吗？
+
+288
+00:17:10,800 --> 00:17:16,510
+long expression compared list right with this Markovian model that is very simplified because extra
+还记得这个漂亮的长表达式吗？
+
+289
+00:17:16,510 --> 00:17:23,670
+long expression compared list right with this Markovian model that is very simplified because extra
+马尔可夫模型非常简化，因为额外模型不依赖于XT减
+
+290
+00:17:23,670 --> 00:17:23,680
+doesn't depend on XT minus 2 XT minus 3 etc ok so this is this
+马尔可夫模型非常简化，因为额外模型不依赖于XT减
+
+291
+00:17:23,680 --> 00:17:32,340
+doesn't depend on XT minus 2 XT minus 3 etc ok so this is this
+2 XT减3等，所以这是他们看到各种提示的时候
+
+292
+00:17:32,340 --> 00:17:34,500
+moment they see various cues the
+2 XT减3等，所以这是他们看到各种提示的时候
+
+293
+00:17:34,500 --> 00:17:34,510
+independence relations in particular but XP is independent X 2 minus 1 is in the
+2 XT减3等，所以这是他们看到各种提示的时候
+
+294
+00:17:34,510 --> 00:17:44,280
+independence relations in particular but XP is independent X 2 minus 1 is in the
+特别是独立性关系，但是XP中的独立性是X 2减去1
+
+295
+00:17:44,280 --> 00:17:44,290
+parent of all the various values XT
+特别是独立性关系，但是XP中的独立性是X 2减去1
+
+296
+00:17:44,290 --> 00:17:46,200
+parent of all the various values XT
+该课程中所有各种值的父项XT减去2 X 1
+
+297
+00:17:46,200 --> 00:17:58,080
+minus 2 X 1 on this course or something if I highlighted from lecture 1
+该课程中所有各种值的父项XT减去2 X 1
+
+298
+00:17:58,080 --> 00:18:03,950
+minus 2 X 1 on this course or something if I highlighted from lecture 1
+如果我在第1课中突出显示了该节点的父节点，那么在此
+
+299
+00:18:03,950 --> 00:18:07,240
+which is the parent of the node right so in this case if we look
+如果我在第1课中突出显示了该节点的父节点，那么在此
+
+300
+00:18:07,240 --> 00:18:09,540
+which is the parent of the node right so in this case if we look
+如果我们不给父母做生意的话，那么这是一个基本
+
+301
+00:18:09,540 --> 00:18:16,890
+at no business to parents okay and so here's a fundamental
+如果我们不给父母做生意的话，那么这是一个基本
+
+302
+00:18:16,890 --> 00:18:17,090
+at no business to parents okay and so here's a fundamental
+公平性有条件地关系了此有向图的先前关系，因此
+
+303
+00:18:17,090 --> 00:18:22,830
+fairness conditionally previous relations for this directed graph and so what it says x-ray is
+公平性有条件地关系了此有向图的先前关系，因此
+
+304
+00:18:22,830 --> 00:18:27,930
+fairness conditionally previous relations for this directed graph and so what it says x-ray is
+它所说的X射线与负片的主要部分无关
+
+305
+00:18:27,930 --> 00:18:31,360
+independent from the main the segments of a negative spiral so this is out there
+它所说的X射线与负片的主要部分无关
+
+306
+00:18:31,360 --> 00:18:38,760
+independent from the main the segments of a negative spiral so this is out there
+螺旋形，所以这是在那里塔玛拉沟槽强调
+
+307
+00:18:38,760 --> 00:18:38,770
+Tamara trenched to emphasize the depositor given this will highlight in that movie alright so
+螺旋形，所以这是在那里塔玛拉沟槽强调
+
+308
+00:18:38,770 --> 00:18:42,280
+Tamara trenched to emphasize the depositor given this will highlight in that movie alright so
+鉴于此，存款人将在那部电影中突出显示
+
+309
+00:18:42,280 --> 00:18:44,680
+Tamara trenched to emphasize the depositor given this will highlight in that movie alright so
+好吧，这样的说法仍然存在，那就是
+
+310
+00:18:44,680 --> 00:18:47,410
+the parlance it stays that the value of
+好吧，这样的说法仍然存在，那就是
+
+311
+00:18:47,410 --> 00:18:47,420
+V is independent through the name of the sender so photographer at the political order
+好吧，这样的说法仍然存在，那就是
+
+312
+00:18:47,420 --> 00:18:53,930
+V is independent through the name of the sender so photographer at the political order
+V通过发件人的名字是独立的，因此政治上的摄影师
+
+313
+00:18:53,930 --> 00:18:55,540
+V is independent through the name of the sender so photographer at the political order
+命令错误的后代将有数字，但它们基本上是
+
+314
+00:18:55,540 --> 00:18:58,870
+the wrong descendants will have numbers but they are basically everything about the values of
+命令错误的后代将有数字，但它们基本上是
+
+315
+00:18:58,870 --> 00:19:00,820
+the wrong descendants will have numbers but they are basically everything about the values of
+关于父母价值观的一切基本上都按顺序排列
+
+316
+00:19:00,820 --> 00:19:04,370
+the parents basically in the order okay these are the non descendants right so point
+关于父母价值观的一切基本上都按顺序排列
+
+317
+00:19:04,370 --> 00:19:07,300
+the parents basically in the order okay these are the non descendants right so point
+这些是非后裔，所以要指出父母的价值观
+
+318
+00:19:07,300 --> 00:19:09,420
+on the values of the parents
+这些是非后裔，所以要指出父母的价值观
+
+319
+00:19:09,420 --> 00:19:09,430
+excuse you the fella from the non-descendants eye or anything like that right so view
+这些是非后裔，所以要指出父母的价值观
+
+320
+00:19:09,430 --> 00:19:17,510
+excuse you the fella from the non-descendants eye or anything like that right so view
+请您从非子孙后代或其他类似的事物中解雇您的小伙子
+
+321
+00:19:17,510 --> 00:19:20,230
+excuse you the fella from the non-descendants eye or anything like that right so view
+正确的，所以在这一点上，我只想让您直观地了解一下
+
+322
+00:19:20,230 --> 00:19:23,230
+at this point I just want you to visualize as to what this means because
+正确的，所以在这一点上，我只想让您直观地了解一下
+
+323
+00:19:23,230 --> 00:19:23,240
+we love I think we should
+正确的，所以在这一点上，我只想让您直观地了解一下
+
+324
+00:19:23,240 --> 00:19:28,090
+we love I think we should
+意味着因为我们爱，我认为我们应该强调那不是很 难，但是一旦有了这一点，就可以定义概率的组成
+
+325
+00:19:28,090 --> 00:19:34,510
+highlight that which is not very difficult but once you have this the composition for
+意味着因为我们爱，我认为我们应该强调那不是很 难，但是一旦有了这一点，就可以定义概率的组成
+
+326
+00:19:34,510 --> 00:19:34,520
+probability defined on this graph you move rains pushing too hard okay so we will
+意味着因为我们爱，我认为我们应该强调那不是很 难，但是一旦有了这一点，就可以定义概率的组成
+
+327
+00:19:34,520 --> 00:19:38,980
+probability defined on this graph you move rains pushing too hard okay so we will
+您移动的这张图下雨太难了，好吧，我们将能够
+
+328
+00:19:38,980 --> 00:19:38,990
+able to take advantage of this relation so and no Pascal will ensure that only
+您移动的这张图下雨太难了，好吧，我们将能够
+
+329
+00:19:38,990 --> 00:19:45,430
+able to take advantage of this relation so and no Pascal will ensure that only
+这样关系的优势，因此Pascal不会确保只有
+
+330
+00:19:45,430 --> 00:19:45,440
+distillation of the fertilizer in this
+这样关系的优势，因此Pascal不会确保只有
+
+331
+00:19:45,440 --> 00:19:47,140
+distillation of the fertilizer in this
+该图中的化肥蒸馏满足了这种关系
+
+332
+00:19:47,140 --> 00:19:52,760
+graph satisfies this relation and around this dilution on the graph this relation is also
+该图中的化肥蒸馏满足了这种关系
+
+333
+00:19:52,760 --> 00:19:54,790
+graph satisfies this relation and around this dilution on the graph this relation is also
+这个关系图上的稀释度也满足了，你知道我的意思是你
+
+334
+00:19:54,790 --> 00:19:56,560
+satisfied you know I mean you
+这个关系图上的稀释度也满足了，你知道我的意思是你
+
+335
+00:19:56,560 --> 00:19:56,570
+ can see sorry  alright so both ways this will be okay
+这个关系图上的稀释度也满足了，你知道我的意思是你
+
+336
+00:19:56,570 --> 00:20:05,950
+ can see sorry  alright so both ways this will be okay
+可以看到抱歉，所以这两种方式都可以
+
+337
+00:20:05,950 --> 00:20:10,950
+ can see sorry  alright so both ways this will be okay
+写在免疫图上的免疫联合的大写
+
+338
+00:20:10,950 --> 00:20:18,340
+that the capitalization of the joint of immunity on the restive graph is written as
+写在免疫图上的免疫联合的大写
+
+339
+00:20:18,340 --> 00:20:18,350
+the product over all the nodes of the
+写在免疫图上的免疫联合的大写
+
+340
+00:20:18,350 --> 00:20:21,100
+the product over all the nodes of the
+作为条件概率图所有节点上的乘积
+
+341
+00:20:21,100 --> 00:20:23,480
+graph of the conditional probabilities of X I excite the volume of you know the
+作为条件概率图所有节点上的乘积
+
+342
+00:20:23,480 --> 00:20:27,490
+graph of the conditional probabilities of X I excite the volume of you know the
+的XI激发了你的力量，我知道除了暴力之外，这是一个
+
+343
+00:20:27,490 --> 00:20:31,600
+I given the violence apart this is an
+的XI激发了你的力量，我知道除了暴力之外，这是一个
+
+344
+00:20:31,600 --> 00:20:31,610
+amazing between position if you think about it right so you know in this case
+的XI激发了你的力量，我知道除了暴力之外，这是一个
+
+345
+00:20:31,610 --> 00:20:36,080
+amazing between position if you think about it right so you know in this case
+如果您考虑正确的话，位置之间会令人惊讶，所以您知道
+
+346
+00:20:36,080 --> 00:20:38,590
+amazing between position if you think about it right so you know in this case
+在这种情况下，条件概率对应于它的no和this
+
+347
+00:20:38,590 --> 00:20:42,230
+the conditional probability corresponding to its no and this function is the condition of the
+在这种情况下，条件概率对应于它的no和this
+
+348
+00:20:42,230 --> 00:20:43,870
+the conditional probability corresponding to its no and this function is the condition of the
+功能是给森林赋予效果的方式的条件。
+
+349
+00:20:43,870 --> 00:20:48,080
+way the effects are given its forests so mr. Bastian that factorization with this graph
+功能是给森林赋予效果的方式的条件。
+
+350
+00:20:48,080 --> 00:20:52,930
+way the effects are given its forests so mr. Bastian that factorization with this graph
+巴斯蒂安（Bastian）通过此图分解因人而异的导弹
+
+351
+00:20:52,930 --> 00:20:52,940
+the personal missile dependent relation that we introduced which is certified ethical justification for deewana
+巴斯蒂安（Bastian）通过此图分解因人而异的导弹
+
+352
+00:20:52,940 --> 00:20:57,159
+the personal missile dependent relation that we introduced which is certified ethical justification for deewana
+我们介绍的关系是经过证明的道德正当理由
+
+353
+00:20:57,159 --> 00:20:57,169
+and discuss its Lewis okay so I
+我们介绍的关系是经过证明的道德正当理由
+
+354
+00:20:57,169 --> 00:21:03,220
+and discuss its Lewis okay so I
+迪瓦娜（Deewana）并讨论它的刘易斯（Lewis）好吧，所以我将有确切的百年纪念的例子
+
+355
+00:21:03,220 --> 00:21:05,480
+will have exactly tricentennial examples and some a little bit more complicated but I'll ask
+迪瓦娜（Deewana）并讨论它的刘易斯（Lewis）好吧，所以我将有确切的百年纪念的例子
+
+356
+00:21:05,480 --> 00:21:07,029
+will have exactly tricentennial examples and some a little bit more complicated but I'll ask
+还有一些更复杂，但是我想请您认识夫人。布莱恩和
+
+357
+00:21:07,029 --> 00:21:14,049
+you to know mrs. Blaine and
+还有一些更复杂，但是我想请您认识夫人。布莱恩和
+
+358
+00:21:14,049 --> 00:21:14,059
+ electric artworks and washing us if we  can prove it
+还有一些更复杂，但是我想请您认识夫人。布莱恩和
+
+359
+00:21:14,059 --> 00:21:19,269
+ electric artworks and washing us if we  can prove it
+电子艺术品，如果我们能证明的话，就洗我们
+
+360
+00:21:19,269 --> 00:21:20,200
+ electric artworks and washing us if we  can prove it
+[音乐]
+
+361
+00:21:20,200 --> 00:21:23,259
+[Music]
+[音乐]
+
+362
+00:21:23,259 --> 00:21:28,379
+[Music]
+上升和这些因素在这里这些功能是
+
+363
+00:21:28,379 --> 00:21:34,639
+Rises and this factors here these functions are the condition for committees of X i
+上升和这些因素在这里这些功能是
+
+364
+00:21:34,639 --> 00:21:40,060
+Rises and this factors here these functions are the condition for committees of X i
+当我们从
+
+365
+00:21:40,060 --> 00:21:42,380
+given sparks when we have this complicated factorization from the product rule well we only
+当我们从
+
+366
+00:21:42,380 --> 00:21:44,440
+given sparks when we have this complicated factorization from the product rule well we only
+产品规则很好，我们只有教过定居者的父母，
+
+367
+00:21:44,440 --> 00:21:47,419
+have the parents we have taught the settlers and the co parents and the novice
+产品规则很好，我们只有教过定居者的父母，
+
+368
+00:21:47,419 --> 00:21:50,529
+have the parents we have taught the settlers and the co parents and the novice
+共同父母和新手，其他一切都来了，但是
+
+369
+00:21:50,529 --> 00:21:52,820
+and everything else is coming here but because of this independent relationship the the only
+共同父母和新手，其他一切都来了，但是
+
+370
+00:21:52,820 --> 00:21:58,720
+and everything else is coming here but because of this independent relationship the the only
+由于这种独立的关系，这里X i的唯一分区
+
+371
+00:21:58,720 --> 00:21:58,730
+partition here this X i given the parents of
+由于这种独立的关系，这里X i的唯一分区
+
+372
+00:21:58,730 --> 00:22:02,289
+partition here this X i given the parents of
+给...的父母
+
+373
+00:22:02,289 --> 00:22:09,560
+partition here this X i given the parents of
+所以我真的很确定自己在做什么我正在用身体做定向图
+
+374
+00:22:09,560 --> 00:22:17,180
+so I'm actually so sure what I'm doing I am taking a directed graph with
+所以我真的很确定自己在做什么我正在用身体做定向图
+
+375
+00:22:17,180 --> 00:22:17,190
+my body moves the first equation writes the the product rule so no independence assumptions
+所以我真的很确定自己在做什么我正在用身体做定向图
+
+376
+00:22:17,190 --> 00:22:23,190
+my body moves the first equation writes the the product rule so no independence assumptions
+移动第一个方程写乘积规则，所以没有独立性
+
+377
+00:22:23,190 --> 00:22:25,549
+my body moves the first equation writes the the product rule so no independence assumptions
+假设我很爱，什么也没做，然后我就用这种方法
+
+378
+00:22:25,549 --> 00:22:28,529
+I am love assuming nothing and then I am applying sort of this equation right
+假设我很爱，什么也没做，然后我就用这种方法
+
+379
+00:22:28,529 --> 00:22:31,430
+I am love assuming nothing and then I am applying sort of this equation right
+等式对，我正在应用这个表示业务的等式
+
+380
+00:22:31,430 --> 00:22:34,169
+I'm applying this equation that says that business innovation is factorized this way and another
+等式对，我正在应用这个表示业务的等式
+
+381
+00:22:34,169 --> 00:22:38,539
+I'm applying this equation that says that business innovation is factorized this way and another
+创新是通过这种方式进行分解的，而在这一方面则占主导地位
+
+382
+00:22:38,539 --> 00:22:38,549
+thing at this the predominate affects one because it's one has no parents all right
+创新是通过这种方式进行分解的，而在这一方面则占主导地位
+
+383
+00:22:38,549 --> 00:22:42,649
+thing at this the predominate affects one because it's one has no parents all right
+影响一个，因为它是一个没有父母可以防止的影响
+
+384
+00:22:42,649 --> 00:22:42,659
+the prevent effects still given x1 that's the only part I could still get enough
+影响一个，因为它是一个没有父母可以防止的影响
+
+385
+00:22:42,659 --> 00:22:48,169
+the prevent effects still given x1 that's the only part I could still get enough
+仍然给定x1，这是我唯一仍然可以获得足够的部分x1 x4
+
+386
+00:22:48,169 --> 00:22:48,179
+only x1 x4 given 2 and 3 and X 5 given 3 so remember you
+仍然给定x1，这是我唯一仍然可以获得足够的部分x1 x4
+
+387
+00:22:48,179 --> 00:22:51,469
+only x1 x4 given 2 and 3 and X 5 given 3 so remember you
+2和3以及X 5给定3，所以请记住，您可以看到外观关系
+
+388
+00:22:51,469 --> 00:22:56,299
+can see the appearance relations that
+2和3以及X 5给定3，所以请记住，您可以看到外观关系
+
+389
+00:22:56,299 --> 00:22:57,190
+can see the appearance relations that
+有效地表示是否概率等于零，这意味着水平
+
+390
+00:22:57,190 --> 00:23:02,779
+effectively whether says the probability is equal to naught which means the level x3 expires
+有效地表示是否概率等于零，这意味着水平
+
+391
+00:23:02,779 --> 00:23:02,789
+in the penitent water I mean
+有效地表示是否概率等于零，这意味着水平
+
+392
+00:23:02,789 --> 00:23:07,519
+in the penitent water I mean
+x3在pen悔水中过期，我的意思是看这2个方程式
+
+393
+00:23:07,519 --> 00:23:10,139
+looking at this 2 equation there never expiry x5 is independent off that's 124 right
+x3在pen悔水中过期，我的意思是看这2个方程式
+
+394
+00:23:10,139 --> 00:23:15,710
+looking at this 2 equation there never expiry x5 is independent off that's 124 right
+到期时间x5是独立的，即124对
+
+395
+00:23:15,710 --> 00:23:15,720
+there it's here given x2 x3 x4 is
+到期时间x5是独立的，即124对
+
+396
+00:23:15,720 --> 00:23:19,310
+there it's here given x2 x3 x4 is
+在这里给定x2 x3 x4独立于X 1给定X 1 X 3 in
+
+397
+00:23:19,310 --> 00:23:22,789
+independent of X 1 given X 1 X 3 in terms of X 2 etc
+在这里给定x2 x3 x4独立于X 1给定X 1 X 3 in
+
+398
+00:23:22,789 --> 00:23:22,799
+you may say I know but
+在这里给定x2 x3 x4独立于X 1给定X 1 X 3 in
+
+399
+00:23:22,799 --> 00:23:34,219
+you may say I know but
+X 2等的术语，您可能会说我知道，但是我怎么知道这种独立关系
+
+400
+00:23:34,219 --> 00:23:37,919
+ how do I know this independence relation  well we will spend a lecture or two and  we will
+X 2等的术语，您可能会说我知道，但是我怎么知道这种独立关系
+
+401
+00:23:37,919 --> 00:23:42,529
+ how do I know this independence relation  well we will spend a lecture or two and  we will
+好吧，我们将花费一两次演讲，我们将
+
+402
+00:23:42,529 --> 00:23:49,610
+ how do I know this independence relation  well we will spend a lecture or two and  we will
+案件
+
+403
+00:23:49,610 --> 00:23:52,490
+cases
+案件
+
+404
+00:23:52,490 --> 00:23:57,410
+cases
+没关系，如果我们知道剩余权力的父母人数是多少
+
+405
+00:23:57,410 --> 00:25:28,410
+it's okay you know this if let's say is the number of parents to the
+没关系，如果我们知道剩余权力的父母人数是多少
+
+406
+00:25:28,410 --> 00:25:28,420
+power left to describe this times times
+没关系，如果我们知道剩余权力的父母人数是多少
+
+407
+00:25:28,420 --> 00:25:32,370
+power left to describe this times times
+描述这个时代
+
+408
+00:25:32,370 --> 00:25:33,310
+power left to describe this times times
+原则上，实际上有人可以说夺权加一
+
+409
+00:25:33,310 --> 00:25:40,639
+in principle actually somebody can say take the power a plus one
+原则上，实际上有人可以说夺权加一
+
+410
+00:25:40,639 --> 00:25:40,649
+in principle actually somebody can say take the power a plus one
+你坐起来，但你知道这就像你对归一化感到满意，
+
+411
+00:25:40,649 --> 00:25:46,889
+you sit up but you know it's like if you're comfortable a normalization and everything
+你坐起来，但你知道这就像你对归一化感到满意，
+
+412
+00:25:46,889 --> 00:25:48,320
+you sit up but you know it's like if you're comfortable a normalization and everything
+一切都差不多，这就是酒的帮助。
+
+413
+00:25:48,320 --> 00:25:52,759
+so that's approximately of the order wine is take aid to affect
+一切都差不多，这就是酒的帮助。
+
+414
+00:25:52,759 --> 00:26:00,399
+so that's approximately of the order wine is take aid to affect
+反向对，这些将取一个值，而我们全取K个值
+
+415
+00:26:00,399 --> 00:26:06,839
+reverse right these are going to take a values and we're taking K values all  right so okay less rough
+反向对，这些将取一个值，而我们全取K个值
+
+416
+00:26:06,839 --> 00:27:25,249
+reverse right these are going to take a values and we're taking K values all  right so okay less rough
+对，所以没那么粗糙
+
+417
+00:27:25,249 --> 00:27:26,430
+reverse right these are going to take a values and we're taking K values all  right so okay less rough
+是的，新西兰对敌人的纪念较少，被驳回
+
+418
+00:27:26,430 --> 00:27:30,640
+yes NZ's enemy remembrances lesser dismissed mara independence relations okay and this is not very
+是的，新西兰对敌人的纪念较少，被驳回
+
+419
+00:27:30,640 --> 00:27:36,030
+yes NZ's enemy remembrances lesser dismissed mara independence relations okay and this is not very
+玛拉独立关系还可以，这不是很有趣，所以这是
+
+420
+00:27:36,030 --> 00:27:36,040
+interesting so this is something very just the Ascension this you can appreciate the necessary
+玛拉独立关系还可以，这不是很有趣，所以这是
+
+421
+00:27:36,040 --> 00:28:58,500
+interesting so this is something very just the Ascension this you can appreciate the necessary
+只是提升的东西，你可以体会到我所需要的
+
+422
+00:28:58,500 --> 00:28:58,510
+I'm showing that this function is a  probability right because you say 116  points along that mystical did you okay
+只是提升的东西，你可以体会到我所需要的
+
+423
+00:28:58,510 --> 00:29:06,700
+I'm showing that this function is a  probability right because you say 116  points along that mystical did you okay
+表示此函数是概率正确的，因为您说116
+
+424
+00:29:06,700 --> 00:29:11,490
+I'm showing that this function is a  probability right because you say 116  points along that mystical did you okay
+沿着那个神秘的观点，你还好吗
+
+425
+00:29:11,490 --> 00:29:15,090
+I'm showing that this function is a  probability right because you say 116  points along that mystical did you okay
+分布还可以，下一个经历等于一个很好的分布
+
+426
+00:29:15,090 --> 00:29:38,559
+the distributions okay next one to experience equal to one which is nice so obviously
+分布还可以，下一个经历等于一个很好的分布
+
+427
+00:29:38,559 --> 00:29:41,039
+the distributions okay next one to experience equal to one which is nice so obviously
+因此，很明显，将标准化归因于个别情况 ，显然，这里的组成可以证明
+
+428
+00:29:41,039 --> 00:29:48,539
+it's individual on normalizing expect that this will be the case and apparently this the
+因此，很明显，将标准化归因于个别情况 ，显然，这里的组成可以证明
+
+429
+00:29:48,539 --> 00:29:52,389
+composition here you can show that the national experience is actually it comes home service
+因此，很明显，将标准化归因于个别情况 ，显然，这里的组成可以证明
+
+430
+00:29:52,389 --> 00:30:10,259
+composition here you can show that the national experience is actually it comes home service
+体验是真的，家庭服务功能真的是
+
+431
+00:30:10,259 --> 00:30:10,269
+functions is really the conditional distribution which is what I tell you you need to
+体验是真的，家庭服务功能真的是
+
+432
+00:30:10,269 --> 00:30:22,710
+functions is really the conditional distribution which is what I tell you you need to
+有条件的分配，这就是我告诉你的，你需要记住
+
+433
+00:30:22,710 --> 00:30:22,720
+remember okay this functions are very more general and they don't even have to be
+有条件的分配，这就是我告诉你的，你需要记住
+
+434
+00:30:22,720 --> 00:30:26,519
+remember okay this functions are very more general and they don't even have to be
+函数是非常通用的，如果这样的话，它们甚至不一定是更好的选择
+
+435
+00:30:26,519 --> 00:30:26,529
+preferable if this but right now from directed graphs this is the case and I
+函数是非常通用的，如果这样的话，它们甚至不一定是更好的选择
+
+436
+00:30:26,529 --> 00:30:33,570
+preferable if this but right now from directed graphs this is the case and I
+但是现在从有向图来看就是这种情况，我说证明
+
+437
+00:30:33,570 --> 00:30:33,580
+say the proof and it works on extremely busy slide all right that's why I
+但是现在从有向图来看就是这种情况，我说证明
+
+438
+00:30:33,580 --> 00:30:37,740
+say the proof and it works on extremely busy slide all right that's why I
+可以在非常忙碌的幻灯片上正常工作，这就是为什么我要您键入您的
+
+439
+00:30:37,740 --> 00:30:37,750
+want you to type your homework because this rule was the lazy person typing the
+可以在非常忙碌的幻灯片上正常工作，这就是为什么我要您键入您的
+
+440
+00:30:37,750 --> 00:30:45,779
+want you to type your homework because this rule was the lazy person typing the
+作业，因为这条规则是懒惰的人打字幻灯片我的秘书
+
+441
+00:30:45,779 --> 00:30:45,789
+slide my secretary the novelist which imaginary person alright so it was me okay because
+作业，因为这条规则是懒惰的人打字幻灯片我的秘书
+
+442
+00:30:45,789 --> 00:30:54,659
+slide my secretary the novelist which imaginary person alright so it was me okay because
+小说家，那个虚构的人还好，所以我还可以，因为我做不到
+
+443
+00:30:54,659 --> 00:30:54,669
+I can't imagine asking anybody that I've destroyed so it was this I want you
+小说家，那个虚构的人还好，所以我还可以，因为我做不到
+
+444
+00:30:54,669 --> 00:30:58,710
+I can't imagine asking anybody that I've destroyed so it was this I want you
+想象问一个人我被摧毁了，所以这就是我要你
+
+445
+00:30:58,710 --> 00:30:58,720
+to to need some type and by typing fails so
+想象问一个人我被摧毁了，所以这就是我要你
+
+446
+00:30:58,720 --> 00:31:06,269
+to to need some type and by typing fails so
+需要某种类型，并且通过键入失败，所以
+
+447
+00:31:06,269 --> 00:31:06,680
+to to need some type and by typing fails so
+那是因为您将需要进行此操作以进行特定的作业分配
+
+448
+00:31:06,680 --> 00:31:11,549
+that because you will need to do this for specific distribution your homework to do
+那是因为您将需要进行此操作以进行特定的作业分配
+
+449
+00:31:11,549 --> 00:31:11,559
+things like that so the first part
+那是因为您将需要进行此操作以进行特定的作业分配
+
+450
+00:31:11,559 --> 00:31:16,649
+things like that so the first part
+做这样的事情，所以定理的第一部分是方法和响应
+
+451
+00:31:16,649 --> 00:31:21,279
+ of the theorem was methods and responses  individually
+做这样的事情，所以定理的第一部分是方法和响应
+
+452
+00:31:21,279 --> 00:31:24,059
+ of the theorem was methods and responses  individually
+个别地
+
+453
+00:31:24,059 --> 00:32:13,550
+ of the theorem was methods and responses  individually
+[音乐]
+
+454
+00:32:13,550 --> 00:32:16,599
+[Music]
+[音乐]
+
+455
+00:32:16,599 --> 00:32:25,399
+[Music]
+无线的秘密是可以进行某种计算的信号之一
+
+456
+00:32:25,399 --> 00:32:38,310
+the secrets wirelessly was one of the signals along okay sort of calculation that is
+无线的秘密是可以进行某种计算的信号之一
+
+457
+00:32:38,310 --> 00:32:38,320
+going to make the relations of
+无线的秘密是可以进行某种计算的信号之一
+
+458
+00:32:38,320 --> 00:32:40,110
+going to make the relations of
+这将使所有这些人的文章之间的关系变得极端
+
+459
+00:32:40,110 --> 00:32:42,100
+the article of all those extremely efficient okay define in terms of the notes and
+这将使所有这些人的文章之间的关系变得极端
+
+460
+00:32:42,100 --> 00:32:53,310
+the article of all those extremely efficient okay define in terms of the notes and
+可以根据笔记和父母的价值观进行有效的确定
+
+461
+00:32:53,310 --> 00:32:53,320
+the values of the parents minds within the operations rather in this case the marginalization
+可以根据笔记和父母的价值观进行有效的确定
+
+462
+00:32:53,320 --> 00:32:58,680
+the values of the parents minds within the operations rather in this case the marginalization
+行动中的思想，而不是在这种情况下，边缘化是局部的
+
+463
+00:32:58,680 --> 00:32:58,690
+is a local operation right and this allows us to to  see immediately the distance
+行动中的思想，而不是在这种情况下，边缘化是局部的
+
+464
+00:32:58,690 --> 00:33:05,070
+is a local operation right and this allows us to to  see immediately the distance
+操作正确，这使我们能够立即看到距离
+
+465
+00:33:05,070 --> 00:33:06,070
+is a local operation right and this allows us to to  see immediately the distance
+是他的密歇根州正常归化先生。正如我所说的
+
+466
+00:33:06,070 --> 00:33:52,740
+it's his Michigan the normalized properly okay okay mr. as I say those any functions
+是他的密歇根州正常归化先生。正如我所说的
+
+467
+00:33:52,740 --> 00:33:54,410
+it's his Michigan the normalized properly okay okay mr. as I say those any functions
+像这样的任何功能都可以使永久性区域分布很好
+
+468
+00:33:54,410 --> 00:33:57,600
+like that take the permanent zone distribution well I'm going to show you know that
+像这样的任何功能都可以使永久性区域分布很好
+
+469
+00:33:57,600 --> 00:34:01,330
+like that take the permanent zone distribution well I'm going to show you know that
+将会告诉您，这和我写的各种清单中的一些
+
+470
+00:34:01,330 --> 00:34:05,040
+this and some of the various I write lists as the joint effects k plus
+将会告诉您，这和我写的各种清单中的一些
+
+471
+00:34:05,040 --> 00:34:08,450
+this and some of the various I write lists as the joint effects k plus
+联合效应k加1和质量k加1除以k加1的幂
+
+472
+00:34:08,450 --> 00:34:10,760
+1 and the quality k plus 1 divided by the powers of k plus 1
+联合效应k加1和质量k加1除以k加1的幂
+
+473
+00:34:10,760 --> 00:34:10,770
+and then I I calculate the numerator
+联合效应k加1和质量k加1除以k加1的幂
+
+474
+00:34:10,770 --> 00:34:15,770
+and then I I calculate the numerator
+然后II使用适当的公式计算分子分母
+
+475
+00:34:15,770 --> 00:34:19,010
+ denominator using the appropriate  marginalization of the composition of  the joint of a new distribution
+然后II使用适当的公式计算分子分母
+
+476
+00:34:19,010 --> 00:34:25,100
+ denominator using the appropriate  marginalization of the composition of  the joint of a new distribution
+新发行的联合的组成的边缘化
+
+477
+00:34:25,100 --> 00:34:35,830
+ denominator using the appropriate  marginalization of the composition of  the joint of a new distribution
+扩大，确保做任何事情
+
+478
+00:34:35,830 --> 00:34:39,710
+expansion sure whatever done
+扩大，确保做任何事情
+
+479
+00:34:39,710 --> 00:35:13,680
+expansion sure whatever done
+好吧好吧好吧，这是好先生。 Lucius好吧，因为那是积极的
+
+480
+00:35:13,680 --> 00:35:54,700
+okay okay okay so this is the okay mr. Lucius okay because that's positive wearing
+好吧好吧好吧，这是好先生。 Lucius好吧，因为那是积极的
+
+481
+00:35:54,700 --> 00:35:54,710
+dark shirt and whatever else on
+好吧好吧好吧，这是好先生。 Lucius好吧，因为那是积极的
+
+482
+00:35:54,710 --> 00:35:56,950
+dark shirt and whatever else on
+穿着深色衬衫，以及检察官身上的其他物品，所以让我们穿上这件衣服，
+
+483
+00:35:56,950 --> 00:36:06,650
+ the proctors so let's take this one and  the partnership give you some k plus and
+穿着深色衬衫，以及检察官身上的其他物品，所以让我们穿上这件衣服，
+
+484
+00:36:06,650 --> 00:36:20,590
+ the proctors so let's take this one and  the partnership give you some k plus and
+合伙关系给你k +
+
+485
+00:36:20,590 --> 00:36:21,540
+ the proctors so let's take this one and  the partnership give you some k plus and
+而且因为我必须法医知道如果L不创建k的导频
+
+486
+00:36:21,540 --> 00:36:26,890
+and because I have to forensic aware that if L doesn't create the pilots of
+而且因为我必须法医知道如果L不创建k的导频
+
+487
+00:36:26,890 --> 00:36:26,900
+k plus 1 is inside before camp yesterday right so I don't have to worry
+而且因为我必须法医知道如果L不创建k的导频
+
+488
+00:36:26,900 --> 00:36:30,760
+k plus 1 is inside before camp yesterday right so I don't have to worry
+加号1昨天在营地之前就在里面，所以我不必担心
+
+489
+00:36:30,760 --> 00:36:30,770
+about the parent and mr. McCann needed to learn outside the estimation because I don't
+加号1昨天在营地之前就在里面，所以我不必担心
+
+490
+00:36:30,770 --> 00:36:37,540
+about the parent and mr. McCann needed to learn outside the estimation because I don't
+父母和先生麦肯需要在估计之外学习，因为我不
+
+491
+00:36:37,540 --> 00:36:37,550
+samel XK plus one or departments and you
+父母和先生麦肯需要在估计之外学习，因为我不
+
+492
+00:36:37,550 --> 00:36:40,600
+samel XK plus one or departments and you
+samel XK加上一个或多个部门，您会注意到从这里到那里
+
+493
+00:36:40,600 --> 00:36:43,190
+notice from here to there I have to sound and the professionals from 1 to
+samel XK加上一个或多个部门，您会注意到从这里到那里
+
+494
+00:36:43,190 --> 00:36:46,510
+notice from here to there I have to sound and the professionals from 1 to
+声音和从1到K的专业人员，除了校园部分
+
+495
+00:36:46,510 --> 00:36:48,500
+K except the parts of campus where  elements will be possible  explain right there without a freshwater
+声音和从1到K的专业人员，除了校园部分
+
+496
+00:36:48,500 --> 00:36:56,350
+K except the parts of campus where  elements will be possible  explain right there without a freshwater
+不用淡水就可以在那里解释元素
+
+497
+00:36:56,350 --> 00:36:58,200
+K except the parts of campus where  elements will be possible  explain right there without a freshwater
+因为这是非常重要的事情，因为我在做
+
+498
+00:36:58,200 --> 00:37:02,870
+because this is something extremely important right because I'm doing I'm pushing the summations inside
+因为这是非常重要的事情，因为我在做
+
+499
+00:37:02,870 --> 00:37:05,830
+because this is something extremely important right because I'm doing I'm pushing the summations inside
+将总和推入内部我有一个潜力是可以的
+
+500
+00:37:05,830 --> 00:37:09,520
+I have a context that the potentials are okay according to my induction argument they're
+将总和推入内部我有一个潜力是可以的
+
+501
+00:37:09,520 --> 00:37:13,420
+I have a context that the potentials are okay according to my induction argument they're
+根据我的归纳论证，它们确实是有条件的
+
+502
+00:37:13,420 --> 00:37:13,430
+really the conditional distributions and then I have this summation of the other factors that
+根据我的归纳论证，它们确实是有条件的
+
+503
+00:37:13,430 --> 00:37:16,870
+really the conditional distributions and then I have this summation of the other factors that
+分布，然后我得到了其他因素的总和
+
+504
+00:37:16,870 --> 00:37:16,880
+have no clear benefit so if you do this and we move this on the
+分布，然后我得到了其他因素的总和
+
+505
+00:37:16,880 --> 00:37:25,810
+have no clear benefit so if you do this and we move this on the
+没有明显的好处，所以如果您这样做，我们将在当地将其转移给您
+
+506
+00:37:25,810 --> 00:37:25,820
+local what you have to summon XK plus 1 because there's no X 2 plus
+没有明显的好处，所以如果您这样做，我们将在当地将其转移给您
+
+507
+00:37:25,820 --> 00:37:31,690
+local what you have to summon XK plus 1 because there's no X 2 plus
+召唤XK加1，因为没有X 2加1，所以整个转换
+
+508
+00:37:31,690 --> 00:37:31,700
+1 so this whole transformation constants numerator denominator D summation constants and this factorization by
+召唤XK加1，因为没有X 2加1，所以整个转换
+
+509
+00:37:31,700 --> 00:37:37,750
+1 so this whole transformation constants numerator denominator D summation constants and this factorization by
+常数分子分母D求和常数和
+
+510
+00:37:37,750 --> 00:37:41,110
+1 so this whole transformation constants numerator denominator D summation constants and this factorization by
+根据定义，因式分解为1，因为此函数已规范化，所以我
+
+511
+00:37:41,110 --> 00:37:43,460
+definition is 1 because this functions are normalized so what I get is this conditional
+根据定义，因式分解为1，因为此函数已规范化，所以我
+
+512
+00:37:43,460 --> 00:37:45,970
+definition is 1 because this functions are normalized so what I get is this conditional
+得到的是，此条件分布等于我的因子FK加1，因此您
+
+513
+00:37:45,970 --> 00:37:51,850
+distribution is equal to my factor FK plus 1 so as you
+得到的是，此条件分布等于我的因子FK加1，因此您
+
+514
+00:37:51,850 --> 00:37:53,430
+distribution is equal to my factor FK plus 1 so as you
+根据条件证明构成收入分配不是
+
+515
+00:37:53,430 --> 00:38:02,180
+compose in revenue distribution in terms of conditionals the proof is not shortened to contagious
+根据条件证明构成收入分配不是
+
+516
+00:38:02,180 --> 00:38:05,080
+compose in revenue distribution in terms of conditionals the proof is not shortened to contagious
+缩短为传染性就像交通艾滋病
+
+517
+00:38:05,080 --> 00:38:05,090
+is like traffic AIDS ok actually most books the parties consider a logician there's no
+缩短为传染性就像交通艾滋病
+
+518
+00:38:05,090 --> 00:38:10,980
+is like traffic AIDS ok actually most books the parties consider a logician there's no
+好的，实际上，大多数书籍都被当事方认为是逻辑学家，没有证据
+
+519
+00:38:10,980 --> 00:38:10,990
+proof okay inaudible any questions on this thing's right if another story our interest is
+好的，实际上，大多数书籍都被当事方认为是逻辑学家，没有证据
+
+520
+00:38:10,990 --> 00:38:19,990
+proof okay inaudible any questions on this thing's right if another story our interest is
+好吧，听不清关于这个问题的任何疑问，如果另一个故事
+
+521
+00:38:19,990 --> 00:38:23,200
+proof okay inaudible any questions on this thing's right if another story our interest is
+我们的兴趣实际上是这些当地意识的分解，
+
+522
+00:38:23,200 --> 00:38:27,470
+really the decomposition in terms of these local conscious that their conditional the values of
+我们的兴趣实际上是这些当地意识的分解，
+
+523
+00:38:27,470 --> 00:38:30,310
+really the decomposition in terms of these local conscious that their conditional the values of
+他们的条件是出埃及记12的父母的出埃及记
+
+524
+00:38:30,310 --> 00:38:32,570
+exodus 12 given its parents the resumption topology will here the destructor fundamental to the
+他们的条件是出埃及记12的父母的出埃及记
+
+525
+00:38:32,570 --> 00:38:37,390
+exodus 12 given its parents the resumption topology will here the destructor fundamental to the
+拓扑将在这里构成我们所做的事情的基础的析构函数
+
+526
+00:38:37,390 --> 00:38:37,400
+type of things we do this with directed graph and the part that we have
+拓扑将在这里构成我们所做的事情的基础的析构函数
+
+527
+00:38:37,400 --> 00:38:43,330
+type of things we do this with directed graph and the part that we have
+这与有向图以及我们不合逻辑或导数的部分
+
+528
+00:38:43,330 --> 00:38:43,340
+it illogical or derivative is decelerations and insulation don't imagine that they have to sound
+这与有向图以及我们不合逻辑或导数的部分
+
+529
+00:38:43,340 --> 00:38:48,840
+it illogical or derivative is decelerations and insulation don't imagine that they have to sound
+减速和绝缘不需要想象它们必须发出x1的声音
+
+530
+00:38:48,840 --> 00:38:48,850
+x1 an actual appears in all of these  functions
+减速和绝缘不需要想象它们必须发出x1的声音
+
+531
+00:38:48,850 --> 00:38:53,830
+x1 an actual appears in all of these  functions
+实际出现在所有这些功能中
+
+532
+00:38:53,830 --> 00:38:54,260
+x1 an actual appears in all of these  functions
+我本人，但拖拉机只在这里固定底部的孤岛
+
+533
+00:38:54,260 --> 00:38:59,640
+myself but the tractor fixed islands only on the bottom here exclusively there right so
+我本人，但拖拉机只在这里固定底部的孤岛
+
+534
+00:38:59,640 --> 00:39:01,850
+myself but the tractor fixed islands only on the bottom here exclusively there right so
+在那里，所以显然在这个问题上，您可以开始一些您提供的
+
+535
+00:39:01,850 --> 00:39:04,200
+obviously in this problems you can start some you provide to the left all right
+在那里，所以显然在这个问题上，您可以开始一些您提供的
+
+536
+00:39:04,200 --> 00:39:05,810
+obviously in this problems you can start some you provide to the left all right
+左边到右边，如果示例如您所见，
+
+537
+00:39:05,810 --> 00:39:10,760
+and if examples as you see this so
+左边到右边，如果示例如您所见，
+
+538
+00:39:10,760 --> 00:39:10,770
+that's important and then you'll notice you have some operations to put rods and notes
+左边到右边，如果示例如您所见，
+
+539
+00:39:10,770 --> 00:39:15,380
+that's important and then you'll notice you have some operations to put rods and notes
+这很重要，然后您会注意到您进行了一些操作来放置杆和
+
+540
+00:39:15,380 --> 00:39:15,390
+where we sum up although the rest
+这很重要，然后您会注意到您进行了一些操作来放置杆和
+
+541
+00:39:15,390 --> 00:39:18,500
+where we sum up although the rest
+记下我们在哪里总结，尽管身体的其余部分大部分都集中在
+
+542
+00:39:18,500 --> 00:39:21,480
+of the body most this is so focused on the operation we we have to
+记下我们在哪里总结，尽管身体的其余部分大部分都集中在
+
+543
+00:39:21,480 --> 00:39:24,380
+of the body most this is so focused on the operation we we have to
+我们必须对玻璃进行的操作，其中模型左侧会强调
+
+544
+00:39:24,380 --> 00:39:26,340
+do with a glass with left of model stressing the context of why not kids
+我们必须对玻璃进行的操作，其中模型左侧会强调
+
+545
+00:39:26,340 --> 00:39:37,310
+do with a glass with left of model stressing the context of why not kids
+为什么孩子不喜欢与众不同的背景
+
+546
+00:39:37,310 --> 00:39:39,450
+like the different there is a problem to the complex all right I'm I always
+为什么孩子不喜欢与众不同的背景
+
+547
+00:39:39,450 --> 00:39:41,300
+like the different there is a problem to the complex all right I'm I always
+复杂好吧，我总是喜欢正常的反面
+
+548
+00:39:41,300 --> 00:39:44,960
+like the opposite of the normal
+复杂好吧，我总是喜欢正常的反面
+
+549
+00:39:44,960 --> 00:39:44,970
+case right I remember you know I said maybe this joke some time ago I
+复杂好吧，我总是喜欢正常的反面
+
+550
+00:39:44,970 --> 00:39:50,330
+case right I remember you know I said maybe this joke some time ago I
+正确的案例我记得你知道我说过这个笑话
+
+551
+00:39:50,330 --> 00:39:50,340
+was trying to give a whole action on some topic and some people ask me
+正确的案例我记得你知道我说过这个笑话
+
+552
+00:39:50,340 --> 00:39:56,390
+was trying to give a whole action on some topic and some people ask me
+试图对某个话题采取整体行动，有人问我可以吗
+
+553
+00:39:56,390 --> 00:39:56,400
+can you start to give an example and I have not been introduced what the
+试图对某个话题采取整体行动，有人问我可以吗
+
+554
+00:39:56,400 --> 00:40:01,570
+can you start to give an example and I have not been introduced what the
+开始举一个例子，而我还没有介绍这个主题是什么
+
+555
+00:40:01,570 --> 00:40:01,580
+topic was okay you know she'll never leave my case alive to give you the
+开始举一个例子，而我还没有介绍这个主题是什么
+
+556
+00:40:01,580 --> 00:40:07,130
+topic was okay you know she'll never leave my case alive to give you the
+好吧，你知道她永远不会离开我的案子，给你一段时间
+
+557
+00:40:07,130 --> 00:40:07,140
+period when the examples come later on he do the examples on your own so
+好吧，你知道她永远不会离开我的案子，给你一段时间
+
+558
+00:40:07,140 --> 00:40:13,040
+period when the examples come later on he do the examples on your own so
+例子来了，稍后他自己做例子，所以是的
+
+559
+00:40:13,040 --> 00:40:13,050
+yes sort of the people in one day so extra depends on X 1 X
+例子来了，稍后他自己做例子，所以是的
+
+560
+00:40:13,050 --> 00:40:17,030
+yes sort of the people in one day so extra depends on X 1 X
+一天之内的人，所以额外取决于X 1 X 2 X 2等，这样您就可以看到我说可以了
+
+561
+00:40:17,030 --> 00:40:29,780
+2 X 2 etc so you can see I say okay
+一天之内的人，所以额外取决于X 1 X 2 X 2等，这样您就可以看到我说可以了
+
+562
+00:40:29,780 --> 00:40:29,790
+of the write this as a product of the functions but intellectual inspires this is
+一天之内的人，所以额外取决于X 1 X 2 X 2等，这样您就可以看到我说可以了
+
+563
+00:40:29,790 --> 00:40:34,470
+of the write this as a product of the functions but intellectual inspires this is
+将此作为功能的产物，但知识分子对此有所启发
+
+564
+00:40:34,470 --> 00:40:37,130
+of the write this as a product of the functions but intellectual inspires this is
+那么，益百利（Experian）明年将成为合作伙伴物理学的奇迹，而
+
+565
+00:40:37,130 --> 00:40:38,580
+nothing then experian the partner physics wonder next year and the pharmacist our experience it's
+那么，益百利（Experian）明年将成为合作伙伴物理学的奇迹，而
+
+566
+00:40:38,580 --> 00:40:40,430
+nothing then experian the partner physics wonder next year and the pharmacist our experience it's
+药剂师我们的经验是在接下来的三个，所以其他的你可以
+
+567
+00:40:40,430 --> 00:40:42,900
+for the next three so the other ones you can show you at least the
+药剂师我们的经验是在接下来的三个，所以其他的你可以
+
+568
+00:40:42,900 --> 00:40:45,920
+for the next three so the other ones you can show you at least the
+至少向您展示服务功能，它们什么都不是，或者
+
+569
+00:40:45,920 --> 00:40:48,690
+service functions they are nothing else or the the function of P of X clinics
+至少向您展示服务功能，它们什么都不是，或者
+
+570
+00:40:48,690 --> 00:40:51,290
+service functions they are nothing else or the the function of P of X clinics
+X诊所的P的功能仍然是当x3的条件给定x2和
+
+571
+00:40:51,290 --> 00:40:55,560
+still is when the condition of x3 given x2 and I think mr. composition right
+X诊所的P的功能仍然是当x3的条件给定x2和
+
+572
+00:40:55,560 --> 00:40:59,590
+still is when the condition of x3 given x2 and I think mr. composition right
+我想先生。构图权和II，您必须先了解该国
+
+573
+00:40:59,590 --> 00:41:05,280
+and I I you know the country first I have to calculate the joint if
+我想先生。构图权和II，您必须先了解该国
+
+574
+00:41:05,280 --> 00:41:07,610
+and I I you know the country first I have to calculate the joint if
+计算如果X到XT除以T FX的联合，那么另一件事我
+
+575
+00:41:07,610 --> 00:41:10,940
+X to X T divided by T FX still so then the other thing I
+计算如果X到XT除以T FX的联合，那么另一件事我
+
+576
+00:41:10,940 --> 00:41:10,950
+have to some obviously to marginalize
+计算如果X到XT除以T FX的联合，那么另一件事我
+
+577
+00:41:10,950 --> 00:41:13,430
+have to some obviously to marginalize
+必须明显地将所有X 1 X 2 X 4或X 1和X 4边缘化
+
+578
+00:41:13,430 --> 00:41:20,570
+it's all X 1 X 2 X 4 or X 1 and X 4 and
+必须明显地将所有X 1 X 2 X 4或X 1和X 4边缘化
+
+579
+00:41:20,570 --> 00:41:20,580
+you can see some of the things we'll
+必须明显地将所有X 1 X 2 X 4或X 1和X 4边缘化
+
+580
+00:41:20,580 --> 00:41:22,670
+you can see some of the things we'll
+您可以看到我们将组织的一些事情可以看到很远的距离
+
+581
+00:41:22,670 --> 00:41:24,750
+organization can see long distance inside the trial and these parenthesis and visible practice comes
+您可以看到我们将组织的一些事情可以看到很远的距离
+
+582
+00:41:24,750 --> 00:41:30,320
+organization can see long distance inside the trial and these parenthesis and visible practice comes
+在试验中，这些括号和可见的实践来不及
+
+583
+00:41:30,320 --> 00:41:30,330
+too long to learn good idea to is f 3 or X 3 and X
+在试验中，这些括号和可见的实践来不及
+
+584
+00:41:30,330 --> 00:41:33,530
+too long to learn good idea to is f 3 or X 3 and X
+学习好主意是f 3还是X 3和X 3就像是湍流完成
+
+585
+00:41:33,530 --> 00:41:36,720
+3 just is like a turbulent completed version of the theorem okay the best possible
+学习好主意是f 3还是X 3和X 3就像是湍流完成
+
+586
+00:41:36,720 --> 00:41:43,610
+3 just is like a turbulent completed version of the theorem okay the best possible
+定理的版本还可以吧，最好的函数吧
+
+587
+00:41:43,610 --> 00:41:43,620
+functions right and this conscience turn out to be pro communities is only for directed
+定理的版本还可以吧，最好的函数吧
+
+588
+00:41:43,620 --> 00:41:48,050
+functions right and this conscience turn out to be pro communities is only for directed
+而这种良心证明是专业社区，仅适用于有向图
+
+589
+00:41:48,050 --> 00:41:48,060
+graphs we said anything for undirected graphs the case to be very well general management
+而这种良心证明是专业社区，仅适用于有向图
+
+590
+00:41:48,060 --> 00:41:54,110
+graphs we said anything for undirected graphs the case to be very well general management
+我们说了无向图的话，一般情况下都很好
+
+591
+00:41:54,110 --> 00:41:56,990
+graphs we said anything for undirected graphs the case to be very well general management
+理智管理至少可以在此马尔可夫语境中定位
+
+592
+00:41:56,990 --> 00:41:59,460
+of sanity can position at least in the context of this Markov chain about adoption
+理智管理至少可以在此马尔可夫语境中定位
+
+593
+00:41:59,460 --> 00:42:02,990
+of sanity can position at least in the context of this Markov chain about adoption
+关于采用的链条功能更强大，所以这是一个例子
+
+594
+00:42:02,990 --> 00:42:12,870
+being a bit more powerful so this is an example from one of the textbook
+关于采用的链条功能更强大，所以这是一个例子
+
+595
+00:42:12,870 --> 00:42:16,310
+being a bit more powerful so this is an example from one of the textbook
+机器学习中教科书的内容相似，因此其中一项便是
+
+596
+00:42:16,310 --> 00:42:25,920
+similar in machine learning so one of the notes is the glass is left one
+机器学习中教科书的内容相似，因此其中一项便是
+
+597
+00:42:25,920 --> 00:42:28,940
+similar in machine learning so one of the notes is the glass is left one
+玻璃是左边的知识之一就是可以在左边的支撑
+
+598
+00:42:28,940 --> 00:42:31,460
+of the knowledge is the support which can be on the left the other one
+玻璃是左边的知识之一就是可以在左边的支撑
+
+599
+00:42:31,460 --> 00:42:31,470
+is a know that is raining
+玻璃是左边的知识之一就是可以在左边的支撑
+
+600
+00:42:31,470 --> 00:42:33,920
+is a know that is raining
+另一个是知道可能正在下雨的知识
+
+601
+00:42:33,920 --> 00:42:35,340
+which can be on earth and everyone is that it's cloudy I am a strong
+另一个是知道可能正在下雨的知识
+
+602
+00:42:35,340 --> 00:42:43,010
+which can be on earth and everyone is that it's cloudy I am a strong
+而且每个人都在多云，我基本上是个坚强的依赖者
+
+603
+00:42:43,010 --> 00:42:43,020
+basically the dependencies look like the hot all right and let's follow the fuel that
+而且每个人都在多云，我基本上是个坚强的依赖者
+
+604
+00:42:43,020 --> 00:42:49,040
+basically the dependencies look like the hot all right and let's follow the fuel that
+看起来好像很热，让我们跟随我描述的
+
+605
+00:42:49,040 --> 00:42:49,050
+I described the junket ability of drama straight away the grass right is basically returnest
+看起来好像很热，让我们跟随我描述的
+
+606
+00:42:49,050 --> 00:42:56,810
+I described the junket ability of drama straight away the grass right is basically returnest
+戏剧表演的中介能力基本回归
+
+607
+00:42:56,810 --> 00:42:58,730
+I described the junket ability of drama straight away the grass right is basically returnest
+同时第一次甚至看到我们被原谅看到了什么
+
+608
+00:42:58,730 --> 00:43:02,280
+same time first even see we're forgiven see what not really given us an hour
+同时第一次甚至看到我们被原谅看到了什么
+
+609
+00:43:02,280 --> 00:43:05,090
+same time first even see we're forgiven see what not really given us an hour
+并没有真正给我们一个小时，通过比较您可以看到的所有内容
+
+610
+00:43:05,090 --> 00:43:08,610
+and everything you can see by comparing this with examining the composition using the product
+并没有真正给我们一个小时，通过比较您可以看到的所有内容
+
+611
+00:43:08,610 --> 00:43:13,700
+and everything you can see by comparing this with examining the composition using the product
+通过使用产品社区共享来检查组成是暗含的
+
+612
+00:43:13,700 --> 00:43:13,710
+community to share is implies basically fundamental national independence relations right and as a measure
+通过使用产品社区共享来检查组成是暗含的
+
+613
+00:43:13,710 --> 00:43:22,100
+community to share is implies basically fundamental national independence relations right and as a measure
+基本上是基本的民族独立关系权
+
+614
+00:43:22,100 --> 00:43:22,110
+of the elections okay right that
+基本上是基本的民族独立关系权
+
+615
+00:43:22,110 --> 00:43:43,250
+of the elections okay right that
+衡量选举的方式还可以，您可以期待这一点
+
+616
+00:43:43,250 --> 00:43:45,150
+you can this you can expect this independence relations all right and then from this
+衡量选举的方式还可以，您可以期待这一点
+
+617
+00:43:45,150 --> 00:43:48,530
+you can this you can expect this independence relations all right and then from this
+好的独立关系，然后您可以说哦，这就是为什么
+
+618
+00:43:48,530 --> 00:43:51,260
+you can say oh that's why
+好的独立关系，然后您可以说哦，这就是为什么
+
+619
+00:43:51,260 --> 00:43:51,270
+the composition I mean in Pascal the new activist problem and you have this graph
+好的独立关系，然后您可以说哦，这就是为什么
+
+620
+00:43:51,270 --> 00:43:59,030
+the composition I mean in Pascal the new activist problem and you have this graph
+我在Pascal中指的是新的维权主义者问题的构成，你有这张图
+
+621
+00:43:59,030 --> 00:43:59,040
+like that smells you already have a
+我在Pascal中指的是新的维权主义者问题的构成，你有这张图
+
+622
+00:43:59,040 --> 00:44:00,770
+like that smells you already have a
+那样的气味你已经在图形独立性上有负面影响了
+
+623
+00:44:00,770 --> 00:44:03,180
+negative in the graphics independence relations so this decomposition is automatic you don't have to
+那样的气味你已经在图形独立性上有负面影响了
+
+624
+00:44:03,180 --> 00:44:06,560
+negative in the graphics independence relations so this decomposition is automatic you don't have to
+关系，所以这种分解是自动的，您不必清除
+
+625
+00:44:06,560 --> 00:44:06,570
+clear anything right so we are going to define this distribution so effectively the trial
+关系，所以这种分解是自动的，您不必清除
+
+626
+00:44:06,570 --> 00:44:26,250
+clear anything right so we are going to define this distribution so effectively the trial
+任何正确的方法，因此我们将非常有效地定义此分布，
+
+627
+00:44:26,250 --> 00:44:29,390
+clear anything right so we are going to define this distribution so effectively the trial
+审判价值很好，因为有一个组织来定义，这是从他的
+
+628
+00:44:29,390 --> 00:44:34,910
+value well because of an organization to define this is from his first loudest row
+审判价值很好，因为有一个组织来定义，这是从他的
+
+629
+00:44:34,910 --> 00:44:34,920
+so if I do he wanted
+审判价值很好，因为有一个组织来定义，这是从他的
+
+630
+00:44:34,920 --> 00:44:37,490
+so if I do he wanted
+第一个最大的行，所以如果我愿意的话，只要另一行是
+
+631
+00:44:37,490 --> 00:44:39,450
+as long as the other one is one line is nervously than one value let's
+第一个最大的行，所以如果我愿意的话，只要另一行是
+
+632
+00:44:39,450 --> 00:44:43,340
+as long as the other one is one line is nervously than one value let's
+比一个值更令人担忧的是，这是镜面反射的概率
+
+633
+00:44:43,340 --> 00:44:46,200
+say this is the probability of the specular the hell are they so I am
+比一个值更令人担忧的是，这是镜面反射的概率
+
+634
+00:44:46,200 --> 00:44:49,280
+say this is the probability of the specular the hell are they so I am
+他们到底是不是所以我正在写云很有可能是虚假的
+
+635
+00:44:49,280 --> 00:44:52,440
+writing is probability well the cloud is a false argument or a tool to describe
+他们到底是不是所以我正在写云很有可能是虚假的
+
+636
+00:44:52,440 --> 00:44:55,230
+writing is probability well the cloud is a false argument or a tool to describe
+参数或工具来很好地描述这一点，实际上我没有
+
+637
+00:44:55,230 --> 00:45:01,680
+this well actually I have no
+参数或工具来很好地描述这一点，实际上我没有
+
+638
+00:45:01,680 --> 00:45:01,690
+money from this I have to fill this I have different Lee's and if I
+参数或工具来很好地描述这一点，实际上我没有
+
+639
+00:45:01,690 --> 00:45:05,850
+money from this I have to fill this I have different Lee's and if I
+从这个钱我必须填补这个我有不同的李的，如果我把这个
+
+640
+00:45:05,850 --> 00:45:05,860
+take this little mini be how isn't it okay we come from the normalization because
+从这个钱我必须填补这个我有不同的李的，如果我把这个
+
+641
+00:45:05,860 --> 00:45:15,270
+take this little mini be how isn't it okay we come from the normalization because
+小迷你是怎么回事，我们来自标准化，因为很多
+
+642
+00:45:15,270 --> 00:45:15,280
+for a lot of skilled problem it doesn't make a sense to say - wah
+小迷你是怎么回事，我们来自标准化，因为很多
+
+643
+00:45:15,280 --> 00:45:19,530
+for a lot of skilled problem it doesn't make a sense to say - wah
+熟练的问题，这没什么好说的-哇-哇
+
+644
+00:45:19,530 --> 00:45:19,540
+- wah yeah we can subtract - fish - a problem with million borrowers we
+熟练的问题，这没什么好说的-哇-哇
+
+645
+00:45:19,540 --> 00:45:23,980
+- wah yeah we can subtract - fish - a problem with million borrowers we
+是的，我们可以减去-鱼-有数百万借款人的问题，我们将
+
+646
+00:45:23,980 --> 00:45:24,600
+- wah yeah we can subtract - fish - a problem with million borrowers we
+差额好吧，所以不用打扰我花了卡
+
+647
+00:45:24,600 --> 00:45:30,859
+will make a difference okay so no bother so I spent the card for this
+差额好吧，所以不用打扰我花了卡
+
+648
+00:45:30,859 --> 00:45:30,869
+problem is the times to the
+差额好吧，所以不用打扰我花了卡
+
+649
+00:45:30,869 --> 00:45:35,430
+problem is the times to the
+对于这个问题是随身携带的次数是下面的分数
+
+650
+00:45:35,430 --> 00:45:38,530
+carry case the number of points below and this environment variables that's why you see
+对于这个问题是随身携带的次数是下面的分数
+
+651
+00:45:38,530 --> 00:45:44,690
+carry case the number of points below and this environment variables that's why you see
+和这个环境变量，这就是为什么您在那里看到它的原因
+
+652
+00:45:44,690 --> 00:45:44,700
+it through there actually I don't know why I different from before before using were
+和这个环境变量，这就是为什么您在那里看到它的原因
+
+653
+00:45:44,700 --> 00:45:52,230
+it through there actually I don't know why I different from before before using were
+其实我不知道为什么我和以前使用K之前有所不同
+
+654
+00:45:52,230 --> 00:45:52,240
+using K from the number of values that are available can take here I just
+其实我不知道为什么我和以前使用K之前有所不同
+
+655
+00:45:52,240 --> 00:45:56,190
+using K from the number of values that are available can take here I just
+从可用值的数量可以在这里我只是一个
+
+656
+00:45:56,190 --> 00:45:56,200
+a for another opponent the game you guys are adult and vaccinated so you can
+从可用值的数量可以在这里我只是一个
+
+657
+00:45:56,200 --> 00:46:02,010
+a for another opponent the game you guys are adult and vaccinated so you can
+另一个对手，你们的游戏是成年的并且已经接种了疫苗，这样您就可以确定
+
+658
+00:46:02,010 --> 00:46:02,020
+figure out in which life what the context is right so so I don't have
+另一个对手，你们的游戏是成年的并且已经接种了疫苗，这样您就可以确定
+
+659
+00:46:02,020 --> 00:46:06,480
+figure out in which life what the context is right so so I don't have
+在哪种生活中背景是正确的，所以我不必回去
+
+660
+00:46:06,480 --> 00:46:06,490
+to go back and change the story that's already there and I was sure that
+在哪种生活中背景是正确的，所以我不必回去
+
+661
+00:46:06,490 --> 00:46:17,130
+to go back and change the story that's already there and I was sure that
+改变已经存在的故事，我确定每个人都回应
+
+662
+00:46:17,130 --> 00:46:17,140
+everybody responds what this equation makes or let's the the correlation rate across today from
+改变已经存在的故事，我确定每个人都回应
+
+663
+00:46:17,140 --> 00:46:24,270
+everybody responds what this equation makes or let's the the correlation rate across today from
+这个方程式是什么，或者让我们得出今天以来的相关率
+
+664
+00:46:24,270 --> 00:46:24,280
+directly ghost makes a little sense
+这个方程式是什么，或者让我们得出今天以来的相关率
+
+665
+00:46:24,280 --> 00:46:26,670
+directly ghost makes a little sense
+直接鬼是有道理的，没有别的好吧
+
+666
+00:46:26,670 --> 00:46:32,460
+ there was nothing else okay all right
+直接鬼是有道理的，没有别的好吧
+
+667
+00:46:32,460 --> 00:46:38,710
+ there was nothing else okay all right
+所以这11个例子我想我可能要举个例子，因为
+
+668
+00:46:38,710 --> 00:46:46,060
+so this 11 example I think I'm gonna I may have to give this because there's
+所以这11个例子我想我可能要举个例子，因为
+
+669
+00:46:46,060 --> 00:46:47,040
+so this 11 example I think I'm gonna I may have to give this because there's
+该示例中令人不愉快的依赖关系作为在
+
+670
+00:46:47,040 --> 00:46:50,990
+unpleasant dependence relations from this example as applications in the slides so this is prevalence
+该示例中令人不愉快的依赖关系作为在
+
+671
+00:46:50,990 --> 00:46:57,960
+unpleasant dependence relations from this example as applications in the slides so this is prevalence
+滑动，所以这是你的盛行，你知道在不久的某个时候来认识你
+
+672
+00:46:57,960 --> 00:47:02,260
+of you know to come you know sometime in the near part of a future
+滑动，所以这是你的盛行，你知道在不久的某个时候来认识你
+
+673
+00:47:02,260 --> 00:47:06,040
+of you know to come you know sometime in the near part of a future
+未来的一部分，所以有这样的变量，最好是
+
+674
+00:47:06,040 --> 00:47:08,810
+so there are such variables and best on with the discussion of in the composition
+未来的一部分，所以有这样的变量，最好是
+
+675
+00:47:08,810 --> 00:47:10,809
+so there are such variables and best on with the discussion of in the composition
+在构图中的讨论这是我正确的x1 x2给定的x1 x3
+
+676
+00:47:10,809 --> 00:47:14,470
+this is what I have right x1 x2 given x1 x3 given X 1 X
+在构图中的讨论这是我正确的x1 x2给定的x1 x3
+
+677
+00:47:14,470 --> 00:47:14,480
+5 etc X tix given X 2 X 5
+在构图中的讨论这是我正确的x1 x2给定的x1 x3
+
+678
+00:47:14,480 --> 00:47:19,030
+5 etc X tix given X 2 X 5
+给定X 1 X 5等X给定X 2 X 5受保护的权利，你在此说
+
+679
+00:47:19,030 --> 00:47:23,420
+protected right and and you say in this example a nice graphical representation of the
+给定X 1 X 5等X给定X 2 X 5受保护的权利，你在此说
+
+680
+00:47:23,420 --> 00:47:29,859
+protected right and and you say in this example a nice graphical representation of the
+在这种情况下，可以很好地以图表形式展示桌会
+
+681
+00:47:29,859 --> 00:47:29,869
+table society to this conditional distribution is corresponding to each tsunami so x1 it's a
+在这种情况下，可以很好地以图表形式展示桌会
+
+682
+00:47:29,869 --> 00:47:34,839
+table society to this conditional distribution is corresponding to each tsunami so x1 it's a
+分布与每个海啸相对应，因此x1是一个很长的经验
+
+683
+00:47:34,839 --> 00:47:34,849
+long experience given x1 so it's a baby like this exports given x2 table like
+分布与每个海啸相对应，因此x1是一个很长的经验
+
+684
+00:47:34,849 --> 00:47:39,520
+long experience given x1 so it's a baby like this exports given x2 table like
+给定x1，所以它是一个像这样的婴儿，给定x2表，就这样存在
+
+685
+00:47:39,520 --> 00:47:39,530
+this exist given two values okay it's a table like that and like that I
+给定x1，所以它是一个像这样的婴儿，给定x2表，就这样存在
+
+686
+00:47:39,530 --> 00:47:46,870
+this exist given two values okay it's a table like that and like that I
+给定两个值，好吧，这是一张像这样的桌子，我必须
+
+687
+00:47:46,870 --> 00:47:46,880
+have to actually program I'm assuming and I'm saying this that show the kid and
+给定两个值，好吧，这是一张像这样的桌子，我必须
+
+688
+00:47:46,880 --> 00:47:53,430
+have to actually program I'm assuming and I'm saying this that show the kid and
+我假设的程序，我说的是向孩子展示并记下
+
+689
+00:47:53,430 --> 00:47:53,440
+take note and destroy that we assign you some homework problems when we don't do
+我假设的程序，我说的是向孩子展示并记下
+
+690
+00:47:53,440 --> 00:47:57,670
+take note and destroy that we assign you some homework problems when we don't do
+当我们不做这个问题时，破坏我们为您分配一些家庭作业问题
+
+691
+00:47:57,670 --> 00:47:57,680
+the question all right you have something only  computer program to do this for you
+当我们不做这个问题时，破坏我们为您分配一些家庭作业问题
+
+692
+00:47:57,680 --> 00:48:02,680
+the question all right you have something only  computer program to do this for you
+好吧，您只有电脑程序才能为您执行此操作
+
+693
+00:48:02,680 --> 00:48:05,730
+the question all right you have something only  computer program to do this for you
+不要吃这个不要吃这个已经做了这个安东尼高迪
+
+694
+00:48:05,730 --> 00:48:12,330
+don't eat this don't eat this already did this Antoni gaudí
+不要吃这个不要吃这个已经做了这个安东尼高迪
+
+695
+00:48:12,330 --> 00:48:13,920
+don't eat this don't eat this already did this Antoni gaudí
+好的，有一个时间陪他们，那怎么可能
+
+696
+00:48:13,920 --> 00:48:16,990
+okay guys there's a time for them how's that possible I don't have the power
+好的，有一个时间陪他们，那怎么可能
+
+697
+00:48:16,990 --> 00:48:23,250
+okay guys there's a time for them how's that possible I don't have the power
+我没有力量，你知道为什么他们的机器上没有一台非常好的机器
+
+698
+00:48:23,250 --> 00:48:27,540
+you know why not a very good machine ever left of their other thing you
+我没有力量，你知道为什么他们的机器上没有一台非常好的机器
+
+699
+00:48:27,540 --> 00:48:30,030
+you know why not a very good machine ever left of their other thing you
+你们离开我的另一件事，因为您永远都不会去几乎论文
+
+700
+00:48:30,030 --> 00:48:35,110
+guys left me because you'll never never go almost papers right that's the 30 minutes
+你们离开我的另一件事，因为您永远都不会去几乎论文
+
+701
+00:48:35,110 --> 00:48:40,440
+guys left me because you'll never never go almost papers right that's the 30 minutes
+对，那就是30分钟，好吧，让我们看一下必要放的东西，我要走了
+
+702
+00:48:40,440 --> 00:48:44,710
+all right let's see necessarily put so I'm going  to my past
+对，那就是30分钟，好吧，让我们看一下必要放的东西，我要走了
+
+703
+00:48:44,710 --> 00:48:47,340
+all right let's see necessarily put so I'm going  to my past
+到我的过去
+
+704
+00:48:47,340 --> 00:49:00,360
+all right let's see necessarily put so I'm going  to my past
+好吧，那么哪个性别歧视者就可以了，那么这就是我们
+
+705
+00:49:00,360 --> 00:50:10,390
+and okay so which of the sexist is coming all right so then this is
+好吧，那么哪个性别歧视者就可以了，那么这就是我们
+
+706
+00:50:10,390 --> 00:50:10,400
+our independent of each other and that's the concept of the latest Paris fire okay
+好吧，那么哪个性别歧视者就可以了，那么这就是我们
+
+707
+00:50:10,400 --> 00:50:18,540
+our independent of each other and that's the concept of the latest Paris fire okay
+彼此独立，这就是最新的巴黎大火的概念，所以 这是我的NRI，如果我不知道为什么他们是独立的，这是独立的
+
+708
+00:50:18,540 --> 00:50:24,490
+so so it's my NRI all right this are independent if I didn't know why
+彼此独立，这就是最新的巴黎大火的概念，所以 这是我的NRI，如果我不知道为什么他们是独立的，这是独立的
+
+709
+00:50:24,490 --> 00:50:24,500
+they're nervous values of X 1 and X 4 whatever I get they depend on
+彼此独立，这就是最新的巴黎大火的概念，所以 这是我的NRI，如果我不知道为什么他们是独立的，这是独立的
+
+710
+00:50:24,500 --> 00:50:30,070
+they're nervous values of X 1 and X 4 whatever I get they depend on
+X 1和X 4的神经值，无论我得到什么，它们都相互依赖，这是
+
+711
+00:50:30,070 --> 00:50:30,080
+each other this is sort of a song another problem will reduce you know in
+X 1和X 4的神经值，无论我得到什么，它们都相互依赖，这是
+
+712
+00:50:30,080 --> 00:50:34,540
+each other this is sort of a song another problem will reduce you know in
+像是一首歌另一个问题会减少你对各种事物的了解
+
+713
+00:50:34,540 --> 00:50:34,550
+in sort of mixed models but many other settings as well  okay
+像是一首歌另一个问题会减少你对各种事物的了解
+
+714
+00:50:34,550 --> 00:50:39,880
+in sort of mixed models but many other settings as well  okay
+型号，但还有许多其他设置也可以
+
+715
+00:50:39,880 --> 00:50:41,819
+in sort of mixed models but many other settings as well  okay
+两件事-这个比利时误导高斯人是一两件事，所以如果我
+
+716
+00:50:41,819 --> 00:50:46,979
+two things - one and two long is this Belgium to mislead Gaussian so if
+两件事-这个比利时误导高斯人是一两件事，所以如果我
+
+717
+00:50:46,979 --> 00:50:46,989
+I wrote a little bit of white for it sex the this exercising defendant and
+两件事-这个比利时误导高斯人是一两件事，所以如果我
+
+718
+00:50:46,989 --> 00:50:53,609
+I wrote a little bit of white for it sex the this exercising defendant and
+为此运动被告写了一点白色
+
+719
+00:50:53,609 --> 00:50:53,619
+so effectively you know this is the problem engine roaring tons of the divinity of
+为此运动被告写了一点白色
+
+720
+00:50:53,619 --> 00:50:58,829
+so effectively you know this is the problem engine roaring tons of the divinity of
+实际上，您知道这是发动机呼啸而过的神性问题
+
+721
+00:50:58,829 --> 00:50:58,839
+the world X given Y and the lamented
+实际上，您知道这是发动机呼啸而过的神性问题
+
+722
+00:50:58,839 --> 00:51:02,039
+the world X given Y and the lamented
+给定Y的世界X和给与士兵性的哀叹的X生活
+
+723
+00:51:02,039 --> 00:51:04,089
+world X living who soldier sex is given Y can be factorized over the data
+给定Y的世界X和给与士兵性的哀叹的X生活
+
+724
+00:51:04,089 --> 00:51:07,469
+world X living who soldier sex is given Y can be factorized over the data
+由于可以假设X为
+
+725
+00:51:07,469 --> 00:51:10,690
+right because of this assumption that the X is having a fairly given Y ok
+由于可以假设X为
+
+726
+00:51:10,690 --> 00:51:15,209
+right because of this assumption that the X is having a fairly given Y ok
+有一个确定的Y ok，所以这是非常重要的
+
+727
+00:51:15,209 --> 00:51:16,920
+so so this is something very important laughter moment of birth under the name of
+有一个确定的Y ok，所以这是非常重要的
+
+728
+00:51:16,920 --> 00:51:19,259
+so so this is something very important laughter moment of birth under the name of
+以朴素贝叶斯分类器的名义出生的笑声时刻，我的意思是我
+
+729
+00:51:19,259 --> 00:51:22,979
+naive Bayes classifier i mean i
+以朴素贝叶斯分类器的名义出生的笑声时刻，我的意思是我
+
+730
+00:51:22,979 --> 00:51:22,989
+satisfy a fear you know i know this but additionally basically has been this is
+以朴素贝叶斯分类器的名义出生的笑声时刻，我的意思是我
+
+731
+00:51:22,989 --> 00:51:35,699
+satisfy a fear you know i know this but additionally basically has been this is
+满足一个恐惧，你知道我知道这一点，但另外基本上已经是
+
+732
+00:51:35,699 --> 00:51:35,709
+that that's fine to say become from now
+满足一个恐惧，你知道我知道这一点，但另外基本上已经是
+
+733
+00:51:35,709 --> 00:51:38,039
+that that's fine to say become from now
+可以这么说，从现在开始成为成千上万的人，这就是
+
+734
+00:51:38,039 --> 00:51:40,509
+someone and thousand through so that's what the name plus pi or take this complexed
+可以这么说，从现在开始成为成千上万的人，这就是
+
+735
+00:51:40,509 --> 00:51:49,799
+someone and thousand through so that's what the name plus pi or take this complexed
+加上pi是什么名字，或者说复杂一点，然后说各节是
+
+736
+00:51:49,799 --> 00:51:49,809
+and say the sections are linearly independent given y and you notice on this paragraph
+加上pi是什么名字，或者说复杂一点，然后说各节是
+
+737
+00:51:49,809 --> 00:51:55,799
+and say the sections are linearly independent given y and you notice on this paragraph
+线性独立给定y，如果您看到
+
+738
+00:51:55,799 --> 00:51:55,809
+if you see on the birthday all right I started fatal dependencies between the exes
+线性独立给定y，如果您看到
+
+739
+00:51:55,809 --> 00:51:59,880
+if you see on the birthday all right I started fatal dependencies between the exes
+生日好了，我开始之间的致命依赖
+
+740
+00:51:59,880 --> 00:51:59,890
+okay so this is the display the
+生日好了，我开始之间的致命依赖
+
+741
+00:51:59,890 --> 00:52:03,900
+okay so this is the display the
+exes好的，所以这是打印出来的我的Vegas被解雇的显示器
+
+742
+00:52:03,900 --> 00:52:09,279
+printed my Vegas was fired okay to come up with your own little algorithms and
+exes好的，所以这是打印出来的我的Vegas被解雇的显示器
+
+743
+00:52:09,279 --> 00:52:12,359
+printed my Vegas was fired okay to come up with your own little algorithms and
+用自己的小算法，如果您搜索文献，就可以
+
+744
+00:52:12,359 --> 00:52:17,279
+this if you search in the literature you
+用自己的小算法，如果您搜索文献，就可以
+
+745
+00:52:17,279 --> 00:52:17,289
+will find very particular algorithm it's for leveling this demented name they discussed fire okay
+用自己的小算法，如果您搜索文献，就可以
+
+746
+00:52:17,289 --> 00:52:22,900
+will find very particular algorithm it's for leveling this demented name they discussed fire okay
+会发现非常特殊的算法，用于平整这个痴呆的名字
+
+747
+00:52:22,900 --> 00:52:27,839
+will find very particular algorithm it's for leveling this demented name they discussed fire okay
+讨论过火好吧，是的，我只知道您是否还记得那个名字地下室，
+
+748
+00:52:27,839 --> 00:52:30,009
+yes well I just know if you remember that name basements that these types of
+讨论过火好吧，是的，我只知道您是否还记得那个名字地下室，
+
+749
+00:52:30,009 --> 00:52:31,680
+yes well I just know if you remember that name basements that these types of
+这些类型的性爱运行正常且独立，所以您
+
+750
+00:52:31,680 --> 00:52:33,729
+sex running right and independent so you have a nice proposition that looks like this
+这些类型的性爱运行正常且独立，所以您
+
+751
+00:52:33,729 --> 00:52:38,610
+sex running right and independent so you have a nice proposition that looks like this
+有一个不错的建议，看起来像这样
+
+752
+00:52:38,610 --> 00:52:38,620
+okay and constants with dependencies between the extras and because the balance is still maintained
+有一个不错的建议，看起来像这样
+
+753
+00:52:38,620 --> 00:52:44,740
+okay and constants with dependencies between the extras and because the balance is still maintained
+和常量之间有依赖关系的常量，因为余额是
+
+754
+00:52:44,740 --> 00:52:47,040
+okay and constants with dependencies between the extras and because the balance is still maintained
+仍然维持了一些您可以做的薪酬结构，但差额
+
+755
+00:52:47,040 --> 00:52:51,640
+some pay structure that you can do is the difference but the  custom what you see on the top okay
+仍然维持了一些您可以做的薪酬结构，但差额
+
+756
+00:52:51,640 --> 00:52:58,920
+some pay structure that you can do is the difference but the  custom what you see on the top okay
+自定义您在顶部看到的内容，好吗
+
+757
+00:52:58,920 --> 00:53:04,430
+some pay structure that you can do is the difference but the  custom what you see on the top okay
+这是普遍存在的条件独立关系国防关系
+
+758
+00:53:04,430 --> 00:53:15,730
+it's prevalent conditional independence relations National Defense relations so these actions right so this is
+这是普遍存在的条件独立关系国防关系
+
+759
+00:53:15,730 --> 00:53:23,250
+it's prevalent conditional independence relations National Defense relations so these actions right so this is
+这些动作没错，没关系，这是出场时间
+
+760
+00:53:23,250 --> 00:53:26,200
+all right this is the length of appearances this is referred directly best luck sir
+这些动作没错，没关系，这是出场时间
+
+761
+00:53:26,200 --> 00:53:28,860
+all right this is the length of appearances this is referred directly best luck sir
+直接被称为“祝你好运，先生，好，我们的党依存关系”
+
+762
+00:53:28,860 --> 00:53:33,820
+okay and the party dependencies we have this one we introduced the Vegas more longer
+直接被称为“祝你好运，先生，好，我们的党依存关系”
+
+763
+00:53:33,820 --> 00:53:37,140
+okay and the party dependencies we have this one we introduced the Vegas more longer
+从现在开始，我们在大约两条腿上介绍了拉斯维加斯更长的时间，因此您可以
+
+764
+00:53:37,140 --> 00:53:39,900
+in about two legs from now so you can
+从现在开始，我们在大约两条腿上介绍了拉斯维加斯更长的时间，因此您可以
+
+765
+00:53:39,900 --> 00:53:39,910
+ work from something from collective one  connected personal between the first
+从现在开始，我们在大约两条腿上介绍了拉斯维加斯更长的时间，因此您可以
+
+766
+00:53:39,910 --> 00:53:46,050
+ work from something from collective one  connected personal between the first
+从第一个人之间相互联系的集体中的某件事开始工作
+
+767
+00:53:46,050 --> 00:53:46,220
+ work from something from collective one  connected personal between the first
+好吧，那里没有新东西
+
+768
+00:53:46,220 --> 00:53:50,280
+okay there is nothing new there
+好吧，那里没有新东西
+
+769
+00:53:50,280 --> 00:53:57,700
+okay there is nothing new there
+但我是后代，甚至是父母，然后是后代，甚至是父母
+
+770
+00:53:57,700 --> 00:55:09,000
+but I am descendants even the parents then the descendants even the parents  and
+但我是后代，甚至是父母，然后是后代，甚至是父母
+
+771
+00:55:09,000 --> 00:55:11,210
+but I am descendants even the parents then the descendants even the parents  and
+和
+
+772
+00:55:11,210 --> 00:56:13,360
+but I am descendants even the parents then the descendants even the parents  and
+接受事实有向图的基本性质不同
+
+773
+00:56:13,360 --> 00:56:19,350
+accept the fact the fundamental property of directed graphs the different position from the parable
+接受事实有向图的基本性质不同
+
+774
+00:56:19,350 --> 00:56:23,480
+accept the fact the fundamental property of directed graphs the different position from the parable
+寓言寓言中的位置再次说服您的敏感者
+
+775
+00:56:23,480 --> 00:56:25,770
+sprouts to convince your sensitive actually again the fulfilled never step two is this marginalization
+寓言寓言中的位置再次说服您的敏感者
+
+776
+00:56:25,770 --> 00:56:31,220
+sprouts to convince your sensitive actually again the fulfilled never step two is this marginalization
+从未实现的第二步是我们在第二步中所做的这种边缘化
+
+777
+00:56:31,220 --> 00:56:31,230
+that we did in two examples before and then you can treat  this decomposition is correct
+从未实现的第二步是我们在第二步中所做的这种边缘化
+
+778
+00:56:31,230 --> 00:56:37,700
+that we did in two examples before and then you can treat  this decomposition is correct
+之前的例子，然后您就可以认为这种分解是正确的
+
+779
+00:56:37,700 --> 00:56:40,810
+that we did in two examples before and then you can treat  this decomposition is correct
+[音乐]
+
+780
+00:56:40,810 --> 00:56:43,899
+[Music]
+[音乐]
+
+781
+00:56:43,899 --> 00:57:57,530
+[Music]
+一个极端
+
+782
+00:57:57,530 --> 00:58:00,990
+one extreme
+一个极端
+
+783
+00:58:00,990 --> 00:58:27,020
+one extreme
+x1 x2时代的专家，这种高效的外观没有错
+
+784
+00:58:27,020 --> 00:58:34,109
+experts in the time of x1 x2 and there's not wrong exterior to this efficient
+x1 x2时代的专家，这种高效的外观没有错
+
+785
+00:58:34,109 --> 00:58:34,280
+experts in the time of x1 x2 and there's not wrong exterior to this efficient
+正确的
+
+786
+00:58:34,280 --> 00:58:37,290
+right
+正确的
+
+787
+00:58:37,290 --> 00:58:40,319
+right
+-好的，多田听着，当你的生活很完美的时候
+
+788
+00:58:40,319 --> 00:58:47,920
+- okay listen tada your life is perfect when it's the expected by P of
+-好的，多田听着，当你的生活很完美的时候
+
+789
+00:58:47,920 --> 00:58:47,930
+X 1 is 50 ok by you
+-好的，多田听着，当你的生活很完美的时候
+
+790
+00:58:47,930 --> 00:59:00,430
+X 1 is 50 ok by you
+X的P期望的X是50 ok alpha加X 1 X 2 X 3 X 4就是
+
+791
+00:59:00,430 --> 00:59:03,370
+alpha plus X 1 X 2 X 3 X 4 is that what happens to
+X的P期望的X是50 ok alpha加X 1 X 2 X 3 X 4就是
+
+792
+00:59:03,370 --> 00:59:03,380
+X 5 and X 6 fear of insulin
+X的P期望的X是50 ok alpha加X 1 X 2 X 3 X 4就是
+
+793
+00:59:03,380 --> 00:59:07,469
+X 5 and X 6 fear of insulin
+X 5和X 6发生胰岛素恐惧X 5减去X 6发生了什么
+
+794
+00:59:07,469 --> 00:59:11,739
+what happened to X 5 minus X 6 well I mean the question of attack
+X 5和X 6发生胰岛素恐惧X 5减去X 6发生了什么
+
+795
+00:59:11,739 --> 00:59:15,700
+what happened to X 5 minus X 6 well I mean the question of attack
+好吧，我的意思是说，攻击的问题是黑人，当您
+
+796
+00:59:15,700 --> 00:59:17,479
+the black is words you know when you somewhere X 5 and X 6 this
+好吧，我的意思是说，攻击的问题是黑人，当您
+
+797
+00:59:17,479 --> 00:59:20,469
+the black is words you know when you somewhere X 5 and X 6 this
+在X 5和X 6处，这等于0.1等于1，所以它们消失了
+
+798
+00:59:20,469 --> 00:59:24,410
+is 0.1 of this equal to 1 so they disappear you see that when you
+在X 5和X 6处，这等于0.1等于1，所以它们消失了
+
+799
+00:59:24,410 --> 00:59:26,859
+is 0.1 of this equal to 1 so they disappear you see that when you
+看到当您在接下来的5分钟内分析关节时，因为这
+
+800
+00:59:26,859 --> 00:59:29,720
+analyze to the joint the next 5 minutes because this how conditional distinguishes the summation
+看到当您在接下来的5分钟内分析关节时，因为这
+
+801
+00:59:29,720 --> 00:59:32,319
+analyze to the joint the next 5 minutes because this how conditional distinguishes the summation
+有条件的区分总和给人好处，所以所以这
+
+802
+00:59:32,319 --> 00:59:37,870
+is giving the advantage okay so so this
+有条件的区分总和给人好处，所以所以这
+
+803
+00:59:37,870 --> 00:59:37,880
+is the joint of X 1 X 2 X 3 X 4 and then if
+有条件的区分总和给人好处，所以所以这
+
+804
+00:59:37,880 --> 00:59:41,049
+is the joint of X 1 X 2 X 3 X 4 and then if
+是X 1 X 2 X 3 X 4的关节，然后如果您想加入音高1 X 2 X
+
+805
+00:59:41,049 --> 00:59:42,700
+you wanted to join the pitch 1 X 2 X
+是X 1 X 2 X 3 X 4的关节，然后如果您想加入音高1 X 2 X
+
+806
+00:59:42,700 --> 00:59:42,710
+3 we have to something that's clear but when someone experimenting disappearing because summation of
+是X 1 X 2 X 3 X 4的关节，然后如果您想加入音高1 X 2 X
+
+807
+00:59:42,710 --> 00:59:46,729
+3 we have to something that's clear but when someone experimenting disappearing because summation of
+3我们必须清楚一些，但是当有人尝试消失时
+
+808
+00:59:46,729 --> 00:59:50,170
+3 we have to something that's clear but when someone experimenting disappearing because summation of
+因为驱逐所有人的总和
+
+809
+00:59:50,170 --> 00:59:50,180
+expelling everyone all right yeah well this consus without this concept evolved already but you
+因为驱逐所有人的总和
+
+810
+00:59:50,180 --> 00:59:55,690
+expelling everyone all right yeah well this consus without this concept evolved already but you
+是的，没有这个概念的这种疑惑已经发展了，但是你明白了
+
+811
+00:59:55,690 --> 00:59:55,700
+get this perfect score given X 2 okay so this is kinda filled this independence
+是的，没有这个概念的这种疑惑已经发展了，但是你明白了
+
+812
+00:59:55,700 --> 01:00:01,019
+get this perfect score given X 2 okay so this is kinda filled this independence
+给定X 2的完美分数，好吧，这有点满足了这种独立性关系
+
+813
+01:00:01,019 --> 01:00:01,029
+relation but I wrestle to remember the ideas that Assad isn't behind all of this
+给定X 2的完美分数，好吧，这有点满足了这种独立性关系
+
+814
+01:00:01,029 --> 01:00:08,200
+relation but I wrestle to remember the ideas that Assad isn't behind all of this
+但是我努力地想起了阿萨德不在所有这些背后的想法，并说
+
+815
+01:00:08,200 --> 01:00:08,210
+and say all there is an independence relations but to heaven all the groups of
+但是我努力地想起了阿萨德不在所有这些背后的想法，并说
+
+816
+01:00:08,210 --> 01:00:12,940
+and say all there is an independence relations but to heaven all the groups of
+一切都有独立的关系，但到天堂的所有团体
+
+817
+01:00:12,940 --> 01:00:12,950
+this graph and he says this graph implies none of this independence relations so whatever
+一切都有独立的关系，但到天堂的所有团体
+
+818
+01:00:12,950 --> 01:00:18,650
+this graph and he says this graph implies none of this independence relations so whatever
+图，他说这个图不暗示这种独立关系
+
+819
+01:00:18,650 --> 01:00:21,339
+this graph and he says this graph implies none of this independence relations so whatever
+因此，无论人口分布图是tamarkan满足的，
+
+820
+01:00:21,339 --> 01:00:24,049
+distribution that population the graph has been tamarkan satisfy of this relationship okay a stupid
+因此，无论人口分布图是tamarkan满足的，
+
+821
+01:00:24,049 --> 01:00:25,769
+distribution that population the graph has been tamarkan satisfy of this relationship okay a stupid
+这种关系还不错，所以我们不会
+
+822
+01:00:25,769 --> 01:00:28,690
+idea so we're not going to
+这种关系还不错，所以我们不会
+
+823
+01:00:28,690 --> 01:00:28,700
+ do the algebra but we lived  that vision server browser arguments  implants University what is relationship
+这种关系还不错，所以我们不会
+
+824
+01:00:28,700 --> 01:00:34,310
+ do the algebra but we lived  that vision server browser arguments  implants University what is relationship
+做代数，但我们过着视觉服务器浏览器参数
+
+825
+01:00:34,310 --> 01:00:38,500
+ do the algebra but we lived  that vision server browser arguments  implants University what is relationship
+植入大学是什么关系
+
+826
+01:00:38,500 --> 01:00:38,640
+ do the algebra but we lived  that vision server browser arguments  implants University what is relationship
+这是巴黎关系X 1的结束，因为X 6是X的头
+
+827
+01:00:38,640 --> 01:00:44,650
+and here is an over in the Paris relation X 1 given X 6 is
+这是巴黎关系X 1的结束，因为X 6是X的头
+
+828
+01:00:44,650 --> 01:00:44,660
+the head of X 3 X 3 this is like in the in this case
+这是巴黎关系X 1的结束，因为X 6是X的头
+
+829
+01:00:44,660 --> 01:01:31,660
+the head of X 3 X 3 this is like in the in this case
+3 X 3这就像在这种疾病的情况下说癌症，为什么是
+
+830
+01:01:31,660 --> 01:01:36,000
+of disease that say cancer and why is
+3 X 3这就像在这种疾病的情况下说癌症，为什么是
+
+831
+01:01:36,000 --> 01:01:36,010
+somehow kind of a disease you know some of molecule blood or other things so
+3 X 3这就像在这种疾病的情况下说癌症，为什么是
+
+832
+01:01:36,010 --> 01:01:43,990
+somehow kind of a disease you know some of molecule blood or other things so
+您以某种方式知道某种分子血液或其他东西，因此为什么
+
+833
+01:01:43,990 --> 01:01:44,000
+why is the disease right but the memory access many diseases and you have something
+您以某种方式知道某种分子血液或其他东西，因此为什么
+
+834
+01:01:44,000 --> 01:01:50,170
+why is the disease right but the memory access many diseases and you have something
+是正确的疾病，但是记忆会访问许多疾病，而您有
+
+835
+01:01:50,170 --> 01:01:50,180
+that can be derived from any
+是正确的疾病，但是记忆会访问许多疾病，而您有
+
+836
+01:01:50,180 --> 01:01:52,089
+that can be derived from any
+可能来自任何疾病的东西，所以您可以看到一点点
+
+837
+01:01:52,089 --> 01:01:57,589
+diseases so you can see this as a little from X to Y so exist
+可能来自任何疾病的东西，所以您可以看到一点点
+
+838
+01:01:57,589 --> 01:02:02,740
+diseases so you can see this as a little from X to Y so exist
+从X到Y，所以存在另一件事-您可以看到这是意识问题
+
+839
+01:02:02,740 --> 01:02:04,700
+another thing the - you can see this is awareness problem that if you have
+从X到Y，所以存在另一件事-您可以看到这是意识问题
+
+840
+01:02:04,700 --> 01:02:07,329
+another thing the - you can see this is awareness problem that if you have
+如果您有其他人，比如说验血，请询问成员
+
+841
+01:02:07,329 --> 01:02:08,770
+an alternate and let's say a blood test you ask the members area and so
+如果您有其他人，比如说验血，请询问成员
+
+842
+01:02:08,770 --> 01:02:08,780
+this graph that you see in
+如果您有其他人，比如说验血，请询问成员
+
+843
+01:02:08,780 --> 01:02:12,670
+this graph that you see in
+区域，所以您在spitzer中看到的这张图讨论了您知道这不是
+
+844
+01:02:12,670 --> 01:02:18,530
+spitzer discuss you know this isn't about the narrative rondelle the joint affection Y as
+区域，所以您在spitzer中看到的这张图讨论了您知道这不是
+
+845
+01:02:18,530 --> 01:02:23,050
+spitzer discuss you know this isn't about the narrative rondelle the joint affection Y as
+关于叙事rondelle联合情感Y作为可能的效果
+
+846
+01:02:23,050 --> 01:02:23,060
+the probable effects knives the probability of Y given X so reliable addressed you know
+关于叙事rondelle联合情感Y作为可能的效果
+
+847
+01:02:23,060 --> 01:02:30,400
+the probable effects knives the probability of Y given X so reliable addressed you know
+刀给定X的概率给定Y如此可靠，您知道这一点，您
+
+848
+01:02:30,400 --> 01:02:30,410
+this you know the parent effects may be will  define it by
+刀给定X的概率给定Y如此可靠，您知道这一点，您
+
+849
+01:02:30,410 --> 01:02:35,410
+this you know the parent effects may be will  define it by
+知道父母的影响可能是通过定义
+
+850
+01:02:35,410 --> 01:02:36,280
+this you know the parent effects may be will  define it by
+对对对
+
+851
+01:02:36,280 --> 01:03:04,610
+right right okay
+对对对
+
+852
+01:03:04,610 --> 01:03:49,460
+right right okay
+[音乐]
+
+853
+01:03:49,460 --> 01:03:52,630
+[Music]
+[音乐]
+
+854
+01:03:52,630 --> 01:03:59,350
+[Music]
+从X到Y美味，但不允许您成为任何朋友res或
+
+855
+01:03:59,350 --> 01:04:04,640
+delicious from X to Y but that doesn't allow you can be any friends res
+从X到Y美味，但不允许您成为任何朋友res或
+
+856
+01:04:04,640 --> 01:04:04,650
+or something for y and say what desserts  okay
+从X到Y美味，但不允许您成为任何朋友res或
+
+857
+01:04:04,650 --> 01:04:09,200
+or something for y and say what desserts  okay
+y的东西，说什么甜点可以
+
+858
+01:04:09,200 --> 01:04:13,430
+or something for y and say what desserts  okay
+他们提供了下两张幻灯片，我们将讨论和下雨
+
+859
+01:04:13,430 --> 01:06:08,460
+they delivered the next two slides we will discuss and rain
+他们提供了下两张幻灯片，我们将讨论和下雨
+
+860
+01:06:08,460 --> 01:06:17,520
+they delivered the next two slides we will discuss and rain
+好吧好吧好吧，这是正确的
+
+861
+01:06:17,520 --> 01:06:49,390
+okay right okay so this is the right
+好吧好吧好吧，这是正确的
+
+862
+01:06:49,390 --> 01:07:42,450
+okay right okay so this is the right
+[音乐]
+
+863
+01:07:42,450 --> 01:07:45,570
+[Music]
+[音乐]
+
+864
+01:07:45,570 --> 01:07:58,380
+[Music]
+衣服是湿的，但让我知道你是否Dre
+
+865
+01:07:58,380 --> 01:08:05,530
+dress is wet but let me let you know whether Dre
+衣服是湿的，但让我知道你是否Dre
+
+866
+01:08:05,530 --> 01:08:22,980
+dress is wet but let me let you know whether Dre
+[音乐]
+
+867
+01:08:22,980 --> 01:08:57,389
+[Music]
+[音乐]
+
+868
+01:08:57,389 --> 01:09:30,019
+[Music]
+[音乐]
+
+869
+01:09:30,019 --> 01:09:33,108
+[Music]
+[音乐]
+
+870
+01:09:33,108 --> 01:09:34,829
+[Music]
+这已经说明草是湿的
+
+871
+01:09:34,829 --> 01:09:39,339
+this has already explained that the grass is wet okay we will formally serve this
+这已经说明草是湿的
+
+872
+01:09:39,339 --> 01:09:44,320
+this has already explained that the grass is wet okay we will formally serve this
+好的，我们将以派生的形式正式提供此服务，但实际上，如果
+
+873
+01:09:44,320 --> 01:09:48,470
+with a derivation okay but in essence if this  example all right
+好的，我们将以派生的形式正式提供此服务，但实际上，如果
+
+874
+01:09:48,470 --> 01:09:51,970
+with a derivation okay but in essence if this  example all right
+好样的
+
+875
+01:09:51,970 --> 01:09:57,990
+with a derivation okay but in essence if this  example all right
+也许今天没有问题
+
+876
+01:09:57,990 --> 01:10:04,090
+no problems maybe today
+也许今天没有问题
+
+877
+01:10:04,090 --> 01:10:11,569
+no problems maybe today
+用小名字说，你有两点，学生在做那种
+
+878
+01:10:11,569 --> 01:10:17,990
+with little names let's say you have two points the students are doing the kind
+用小名字说，你有两点，学生在做那种
+
+879
+01:10:17,990 --> 01:10:18,000
+of it thank you go gents you know come
+用小名字说，你有两点，学生在做那种
+
+880
+01:10:18,000 --> 01:10:22,490
+of it thank you go gents you know come
+谢谢你去，你知道得到的绅士不依赖任何东西，所以
+
+881
+01:10:22,490 --> 01:10:24,210
+to get doesn't depend on anything so they're putting the feather corns let's say this
+谢谢你去，你知道得到的绅士不依赖任何东西，所以
+
+882
+01:10:24,210 --> 01:10:51,010
+to get doesn't depend on anything so they're putting the feather corns let's say this
+他们放羽毛玉米，让我们说这个，这个对，所以让我们
+
+883
+01:10:51,010 --> 01:10:51,020
+and this right so let's Alchemist is right this is zero okay so this has
+他们放羽毛玉米，让我们说这个，这个对，所以让我们
+
+884
+01:10:51,020 --> 01:11:07,910
+and this right so let's Alchemist is right this is zero okay so this has
+炼金术士是对的，这是零好，所以这是探索性的，所以他们是对的，所以
+
+885
+01:11:07,910 --> 01:11:07,920
+exploratory they so right so this is Center for the experiment a  phenomenal
+炼金术士是对的，这是零好，所以这是探索性的，所以他们是对的，所以
+
+886
+01:11:07,920 --> 01:11:13,940
+exploratory they so right so this is Center for the experiment a  phenomenal
+这是一个惊人的实验中心
+
+887
+01:11:13,940 --> 01:11:16,640
+exploratory they so right so this is Center for the experiment a  phenomenal
+我在幻灯片中报告了这一点，您知道在游戏中输掉了比赛
+
+888
+01:11:16,640 --> 01:11:23,340
+I was reporting this in the slides you know losing the game in the factorization
+我在幻灯片中报告了这一点，您知道在游戏中输掉了比赛
+
+889
+01:11:23,340 --> 01:11:24,920
+I was reporting this in the slides you know losing the game in the factorization
+我们想念的因式分解实际上可以计算出受众群体并进行
+
+890
+01:11:24,920 --> 01:11:28,950
+which we miss you can actually compute an audience and do the algebra nothing Ranger
+我们想念的因式分解实际上可以计算出受众群体并进行
+
+891
+01:11:28,950 --> 01:11:31,460
+which we miss you can actually compute an audience and do the algebra nothing Ranger
+代数没有游侠，所以这是我们开始的分解，因此您可以
+
+892
+01:11:31,460 --> 01:11:33,420
+so this is the factorization we started so you can actually prove all the questions
+代数没有游侠，所以这是我们开始的分解，因此您可以
+
+893
+01:11:33,420 --> 01:11:35,900
+so this is the factorization we started so you can actually prove all the questions
+实际证明您在上一张幻灯片中看到的所有问题
+
+894
+01:11:35,900 --> 01:11:39,230
+that you saw in the previous slides
+实际证明您在上一张幻灯片中看到的所有问题
+
+895
+01:11:39,230 --> 01:11:56,239
+that you saw in the previous slides
+我与道格拉斯的关系，所以我只想说说事情变得容易些，所以请记住我们
+
+896
+01:11:56,239 --> 01:12:02,839
+my ass Douglas relation so let me just say what's going easier so remember we
+我与道格拉斯的关系，所以我只想说说事情变得容易些，所以请记住我们
+
+897
+01:12:02,839 --> 01:12:02,849
+sent that you know X of the royal
+我与道格拉斯的关系，所以我只想说说事情变得容易些，所以请记住我们
+
+898
+01:12:02,849 --> 01:12:11,899
+sent that you know X of the royal
+发送您知道皇家后代的X好，所以基本上是董事会
+
+899
+01:12:11,899 --> 01:12:21,929
+descendants okay so basically the board is independent of anything else okay the SAT score
+发送您知道皇家后代的X好，所以基本上是董事会
+
+900
+01:12:21,929 --> 01:12:25,729
+descendants okay so basically the board is independent of anything else okay the SAT score
+与SAT分数或正在清除的速率无关
+
+901
+01:12:25,729 --> 01:12:29,000
+or what rate is clearing out
+与SAT分数或正在清除的速率无关
+
+902
+01:12:29,000 --> 01:12:29,010
+ that cetera  question on the doctor okay it says
+与SAT分数或正在清除的速率无关
+
+903
+01:12:29,010 --> 01:12:36,260
+ that cetera  question on the doctor okay it says
+医生的那个老问题，好吧，它说
+
+904
+01:12:36,260 --> 01:12:37,689
+ that cetera  question on the doctor okay it says
+准社交给了他们考试的难度
+
+905
+01:12:37,689 --> 01:12:43,289
+parasocial was given them the difficulty of an exam all right it's also kind of
+准社交给了他们考试的难度
+
+906
+01:12:43,289 --> 01:12:45,770
+parasocial was given them the difficulty of an exam all right it's also kind of
+这也是一种地狱，好吧，这不是我写的
+
+907
+01:12:45,770 --> 01:12:48,469
+hell okay that's not what I wrote it
+这也是一种地狱，好吧，这不是我写的
+
+908
+01:12:48,469 --> 01:12:50,410
+hell okay that's not what I wrote it
+然而，有关他的后代的信息说
+
+909
+01:12:50,410 --> 01:12:56,900
+however informational says about its descendants
+然而，有关他的后代的信息说
+
+910
+01:12:56,900 --> 01:12:57,480
+however informational says about its descendants
+好久了，我只想让句子不要用等式呼吸
+
+911
+01:12:57,480 --> 01:13:02,850
+well so long I just want the sentence against not breathing with an equation any
+好久了，我只想让句子不要用等式呼吸
+
+912
+01:13:02,850 --> 01:13:06,300
+well so long I just want the sentence against not breathing with an equation any
+关于后代的任何信息都包含有关本发明的信念
+
+913
+01:13:06,300 --> 01:13:09,280
+information about the descendants contains beliefs about this invention reasoning process so another race if
+关于后代的任何信息都包含有关本发明的信念
+
+914
+01:13:09,280 --> 01:13:12,360
+information about the descendants contains beliefs about this invention reasoning process so another race if
+推理过程，所以如果您知道发生了什么，那又是一场比赛
+
+915
+01:13:12,360 --> 01:13:15,340
+you know what happened was still there it has got there okay it changes the
+推理过程，所以如果您知道发生了什么，那又是一场比赛
+
+916
+01:13:15,340 --> 01:13:23,280
+you know what happened was still there it has got there okay it changes the
+到那里好了，即使是谁，它也可以改变画面
+
+917
+01:13:23,280 --> 01:13:23,290
+picture okay even who says the difficulty on the intelligence of the Skinner right if
+到那里好了，即使是谁，它也可以改变画面
+
+918
+01:13:23,290 --> 01:13:27,630
+picture okay even who says the difficulty on the intelligence of the Skinner right if
+说如果证据是Skinner的智力上的困难
+
+919
+01:13:27,630 --> 01:13:27,640
+the evidence is the difficulty of in Excel and even peasants sugar still smells but
+说如果证据是Skinner的智力上的困难
+
+920
+01:13:27,640 --> 01:13:34,980
+the evidence is the difficulty of in Excel and even peasants sugar still smells but
+在Excel中的困难，甚至农民糖仍然闻起来，但
+
+921
+01:13:34,980 --> 01:13:34,990
+the official from below the most immortality do the fixer okay so we will see
+在Excel中的困难，甚至农民糖仍然闻起来，但
+
+922
+01:13:34,990 --> 01:13:40,790
+the official from below the most immortality do the fixer okay so we will see
+从下面的永生不朽的官员做固定器好吧，所以我们会看到这个
+
+923
+01:13:40,790 --> 01:13:40,800
+this sort of problem when we discuss  independence relationships and and  evidence okay
+从下面的永生不朽的官员做固定器好吧，所以我们会看到这个
+
+924
+01:13:40,800 --> 01:13:47,020
+this sort of problem when we discuss  independence relationships and and  evidence okay
+我们讨论独立性关系时会遇到一些问题，并且
+
+925
+01:13:47,020 --> 01:13:51,480
+this sort of problem when we discuss  independence relationships and and  evidence okay
+证据还可以
+
+926
+01:13:51,480 --> 01:14:09,940
+this sort of problem when we discuss  independence relationships and and  evidence okay
+[音乐]
+
+927
+01:14:09,940 --> 01:14:21,140
+[Music]
+[音乐]
+
+928
+01:14:21,140 --> 01:14:35,760
+[Music]
+[音乐]
+
+929
+01:14:35,760 --> 01:14:38,799
+[Music]
+[音乐]
+
+930
+01:14:38,799 --> 01:14:48,650
+[Music]
+好的
+
+931
+01:14:48,650 --> 01:14:51,660
+okay
+好的
+
+932
+01:14:51,660 --> 01:15:01,730
+okay
+[音乐]
+
+933
+01:15:01,730 --> 01:15:04,790
+[Music]
+[音乐]
+
+934
+01:15:04,790 --> 01:15:14,210
+[Music]
+这就是增长，徽标就是这个使命的形象
+
+935
+01:15:14,210 --> 01:15:22,190
+and this would be the growth and the logo is this image on just the
+这就是增长，徽标就是这个使命的形象
+
+936
+01:15:22,190 --> 01:15:22,200
+mission we have sent up over all the she's invaluable success okay so then this
+这就是增长，徽标就是这个使命的形象
+
+937
+01:15:22,200 --> 01:15:30,210
+mission we have sent up over all the she's invaluable success okay so then this
+我们已经把所有她宝贵的成功都派上了用场，所以接下来
+
+938
+01:15:30,210 --> 01:15:30,220
+have the visceral volume is the Sabbath
+我们已经把所有她宝贵的成功都派上了用场，所以接下来
+
+939
+01:15:30,220 --> 01:15:31,830
+have the visceral volume is the Sabbath
+内脏的体积是安息日甚至是vartanus，这有点
+
+940
+01:15:31,830 --> 01:15:33,550
+even vartanus and this is sort of the main cost that allows you develop native
+内脏的体积是安息日甚至是vartanus，这有点
+
+941
+01:15:33,550 --> 01:15:36,270
+even vartanus and this is sort of the main cost that allows you develop native
+我现在唯一能做的就是让您开发本机环境的主要成本
+
+942
+01:15:36,270 --> 01:15:40,080
+environments now the only thing I was
+我现在唯一能做的就是让您开发本机环境的主要成本
+
+943
+01:15:40,080 --> 01:15:40,090
+gonna say is a little socially desirable but Sir I was seven gardeners there was
+我现在唯一能做的就是让您开发本机环境的主要成本
+
+944
+01:15:40,090 --> 01:15:47,940
+gonna say is a little socially desirable but Sir I was seven gardeners there was
+会说在社会上有点可取，但先生，我是七个园丁
+
+945
+01:15:47,940 --> 01:15:47,950
+the number of mobile growth so
+会说在社会上有点可取，但先生，我是七个园丁
+
+946
+01:15:47,950 --> 01:15:50,070
+the number of mobile growth so
+移动设备的数量有增长，所以我们可以考虑一个渐进式的发展方式
+
+947
+01:15:50,070 --> 01:15:53,610
+we can think of a gradual and that way the death of our decisions coming
+移动设备的数量有增长，所以我们可以考虑一个渐进式的发展方式
+
+948
+01:15:53,610 --> 01:15:57,240
+we can think of a gradual and that way the death of our decisions coming
+我们决定的死亡即将到来，因此杀手级病毒可能成为指示
+
+949
+01:15:57,240 --> 01:16:00,310
+so the killer virus can be maybe indicator punch values that tells you what it's
+我们决定的死亡即将到来，因此杀手级病毒可能成为指示
+
+950
+01:16:00,310 --> 01:16:08,670
+so the killer virus can be maybe indicator punch values that tells you what it's
+打孔值告诉你什么是美丽的收集-什么
+
+951
+01:16:08,670 --> 01:16:08,680
+beautiful collect - what Gaussian envelopes are they too late or what you know okay
+打孔值告诉你什么是美丽的收集-什么
+
+952
+01:16:08,680 --> 01:16:17,970
+beautiful collect - what Gaussian envelopes are they too late or what you know okay
+高斯信封是不是为时已晚或您知道吗，所以生活就是
+
+953
+01:16:17,970 --> 01:16:17,980
+so life is the composition is right that this hidden garden was the morning with
+高斯信封是不是为时已晚或您知道吗，所以生活就是
+
+954
+01:16:17,980 --> 01:16:22,260
+so life is the composition is right that this hidden garden was the morning with
+构图是正确的，这个隐藏的花园是早晨，
+
+955
+01:16:22,260 --> 01:16:22,270
+a number of the additional volume which in the graph  you can keep the prosperous
+构图是正确的，这个隐藏的花园是早晨，
+
+956
+01:16:22,270 --> 01:16:29,430
+a number of the additional volume which in the graph  you can keep the prosperous
+在图表中可以保持繁荣的额外数量
+
+957
+01:16:29,430 --> 01:16:34,580
+a number of the additional volume which in the graph  you can keep the prosperous
+服务参数theta是独立的，但与您收集的数据无关
+
+958
+01:16:34,580 --> 01:16:41,590
+service parameters theta are independent but independent of the data you collect in the problem
+服务参数theta是独立的，但与您收集的数据无关
+
+959
+01:16:41,590 --> 01:16:45,180
+service parameters theta are independent but independent of the data you collect in the problem
+在这个问题中，可以肯定的是，在这里真正的问题
+
+960
+01:16:45,180 --> 01:16:47,500
+okay sure and in real problems here in the formation of the rebels will go
+在这个问题中，可以肯定的是，在这里真正的问题
+
+961
+01:16:47,500 --> 01:16:49,890
+okay sure and in real problems here in the formation of the rebels will go
+叛军的形成将能够实现，这证明了这一点。
+
+962
+01:16:49,890 --> 01:16:52,660
+to be able to achieve is a testament to this  data parameters theta but this bottom of
+叛军的形成将能够实现，这证明了这一点。
+
+963
+01:16:52,660 --> 01:16:57,570
+to be able to achieve is a testament to this  data parameters theta but this bottom of
+数据参数theta但该值的底部
+
+964
+01:16:57,570 --> 01:17:03,830
+to be able to achieve is a testament to this  data parameters theta but this bottom of
+任务要仔细考虑各种因素，并以某种方式必须实例化
+
+965
+01:17:03,830 --> 01:17:12,910
+missions to carefully account for the factors and somehow instance you have to do predictions
+任务要仔细考虑各种因素，并以某种方式必须实例化
+
+966
+01:17:12,910 --> 01:17:15,030
+missions to carefully account for the factors and somehow instance you have to do predictions
+通过学生的信息来做预测，以了解在这几个人中没有人
+
+967
+01:17:15,030 --> 01:17:40,260
+by information of the students to know is nobody here in a few weeks from
+通过学生的信息来做预测，以了解在这几个人中没有人
+
+968
+01:17:40,260 --> 01:17:40,270
+now but because not wait a
+通过学生的信息来做预测，以了解在这几个人中没有人
+
+969
+01:17:40,270 --> 01:17:42,420
+now but because not wait a
+从现在起的几周内，但因为不等一分钟，非常自然的自我
+
+970
+01:17:42,420 --> 01:17:45,790
+minute and the very natural self directly linked to my website at least the previous
+从现在起的几周内，但因为不等一分钟，非常自然的自我
+
+971
+01:17:45,790 --> 01:17:51,090
+minute and the very natural self directly linked to my website at least the previous
+直接链接到我的网站，至少是上一个，而且这个网站已经很好 知道，下周二我会在这里看到
+
+972
+01:17:51,090 --> 01:17:59,280
+one and this nice already aware and I will see here on next  Tuesday suppose
+直接链接到我的网站，至少是上一个，而且这个网站已经很好 知道，下周二我会在这里看到
+
