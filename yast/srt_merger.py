@@ -11,7 +11,7 @@ from .utils import (get_sub_lang, get_sub_type, get_sub_name,
 
 LANGS = ["zh-Hans", "en"]
 
-def srt_merger(srt1, srt2, override):
+def srt_merger(srt1, srt2, overwrite):
     """
     合并两种语言的字符
     """
@@ -20,7 +20,7 @@ def srt_merger(srt1, srt2, override):
     lang = get_sub_lang(srt1) + "-" + get_sub_lang(srt2)
     type = "srt"
     srt_name = gen_sub_name(name, lang, type)
-    if (os.path.exists(srt_name) and (not override)):
+    if (os.path.exists(srt_name) and (not overwrite)):
         return
     # 初始化
     subs1 = pysrt.open(srt1)
@@ -101,6 +101,17 @@ def get_srt_file(path):
             
     return file_to_srt
 
+def main_func(path, overwrite):
+    """
+    整体流程
+    """
+    if os.path.isdir(path):
+        file_to_srt = get_srt_file(path)
+        for file in tqdm(file_to_srt):
+            srt1 = file_to_srt[file][0]
+            srt2 = file_to_srt[file][1]
+            srt_merger(srt1, srt2, overwrite)
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument(
@@ -111,21 +122,23 @@ def main():
 
     parser.add_argument(
         "-o",
-        "--override",
+        "--overwrite",
         help="是否覆盖已生成的字幕",
         default=False
     )
 
     args = parser.parse_args()
     path = args.path
-    override = args.override
+    overwrite = args.overwrite
 
-    if os.path.isdir(path):
-        file_to_srt = get_srt_file(path)
-        for file in tqdm(file_to_srt):
-            srt1 = file_to_srt[file][0]
-            srt2 = file_to_srt[file][1]
-            srt_merger(srt1, srt2, override)
+    main_func(path, overwrite)
+
+    # if os.path.isdir(path):
+    #     file_to_srt = get_srt_file(path)
+    #     for file in tqdm(file_to_srt):
+    #         srt1 = file_to_srt[file][0]
+    #         srt2 = file_to_srt[file][1]
+    #         srt_merger(srt1, srt2, overwrite)
 
 if __name__ == "__main__":
     main()

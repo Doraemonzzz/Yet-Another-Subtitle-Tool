@@ -99,6 +99,16 @@ def srt_cleaner(file, dir="clean_srt", maxlen=20, reslen=5):
 
     return flag
 
+def main_func(path):
+    """
+    整体流程
+    """
+    if os.path.isfile(path):
+        srt_cleaner(path)
+    else:
+        for file in tqdm(get_sub_file(path, ["srt"])):
+            srt_cleaner(file)
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument(
@@ -109,11 +119,12 @@ def main():
     args = parser.parse_args()
     path = args.path
 
-    if os.path.isfile(path):
-        srt_cleaner(path)
-    else:
-        for file in tqdm(get_sub_file(path, ["srt"])):
-            srt_cleaner(file)
+    main_func(path)
+    # if os.path.isfile(path):
+    #     srt_cleaner(path)
+    # else:
+    #     for file in tqdm(get_sub_file(path, ["srt"])):
+    #         srt_cleaner(file)
     
 
 if __name__ == "__main__":

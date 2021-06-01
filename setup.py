@@ -14,7 +14,8 @@ setup(
         'console_scripts': [
             'srt_cleaner=yast.srt_cleaner:main',
             'srt_merger=yast.srt_merger:main',
-            'srt_converter=yast.srt_converter:main'
+            'srt_converter=yast.srt_converter:main',
+            'yast=yast.yast:main'
         ],
     },
     install_requires=[
