@@ -108,9 +108,11 @@ def main_func(path, overwrite):
     if os.path.isdir(path):
         file_to_srt = get_srt_file(path)
         for file in tqdm(file_to_srt):
-            srt1 = file_to_srt[file][0]
-            srt2 = file_to_srt[file][1]
-            srt_merger(srt1, srt2, overwrite)
+            # 防止只有一种语种
+            if len(file_to_srt[file]) >= 2:
+                srt1 = file_to_srt[file][0]
+                srt2 = file_to_srt[file][1]
+                srt_merger(srt1, srt2, overwrite)
 
 def main():
     parser = argparse.ArgumentParser()

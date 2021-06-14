@@ -3,6 +3,7 @@
 import argparse
 import sys
 import io
+import os
 
 from . import srt_converter
 from . import srt_cleaner
@@ -31,7 +32,7 @@ def main():
 
     srt_converter.main_func(path)
     srt_cleaner.main_func(path)
-    srt_merger.main_func(path + "/clean_srt", overwrite)
+    srt_merger.main_func(os.path.join(os.getcwd(), "clean_srt"), overwrite)
 
     # subprocess.call(f"srt_converter --path {path}")
     # #subprocess.call("srt_converter --path " + dir)

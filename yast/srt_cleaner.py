@@ -13,7 +13,7 @@ from .utils import (del_newline, del_newline, get_str_max_overlap,
                     mkdir, get_sub_file)
 
 
-def srt_cleaner(file, dir="clean_srt", maxlen=20, reslen=5):
+def srt_cleaner(file, dir="clean_srt", maxlen=20, reslen=6):
     """
     对字幕按照字符级拼接, 当当前时间段字幕单词数超过maxlen时, 
     做截断, 保留至少reslen个单词给下个时间段使用。
@@ -104,10 +104,14 @@ def main_func(path):
     整体流程
     """
     if os.path.isfile(path):
-        srt_cleaner(path)
+        # 防止文件为空
+        if os.path.getsize(path):
+            srt_cleaner(path)
     else:
         for file in tqdm(get_sub_file(path, ["srt"])):
-            srt_cleaner(file)
+            # 防止文件为空
+            if os.path.getsize(file):
+                srt_cleaner(file)
 
 def main():
     parser = argparse.ArgumentParser()

@@ -15,10 +15,14 @@ def main_func(path):
     整体流程
     """
     if os.path.isfile(path):
-        vtt_to_srt(path)
+        # 防止文件为空
+        if os.path.getsize(path) != 0:
+            vtt_to_srt(path)
     else:
         for file in tqdm(get_sub_file(path, ["vtt"])):
-            vtt_to_srt(file)
+            # 防止文件为空
+            if os.path.getsize(file) != 0:
+                vtt_to_srt(file)
 
 def main():
     # 设置输出编码为utf8
